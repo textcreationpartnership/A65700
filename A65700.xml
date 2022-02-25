@@ -1,0 +1,749 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A discourse, confirming the truth and certainty of the Christian faith from the extraordinary gifts and operations of the Holy Ghost vouchsafed to the apostles and primitive professors of that faith / by Daniel Whitby ...</title>
+            <author>Whitby, Daniel, 1638-1726.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 95 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A65700</idno>
+            <idno type="STC">Wing W1723</idno>
+            <idno type="STC">ESTC R39042</idno>
+            <idno type="EEBO-CITATION">18207396</idno>
+            <idno type="OCLC">ocm 18207396</idno>
+            <idno type="VID">107109</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A65700)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 107109)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1136:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A discourse, confirming the truth and certainty of the Christian faith from the extraordinary gifts and operations of the Holy Ghost vouchsafed to the apostles and primitive professors of that faith / by Daniel Whitby ...</title>
+                  <author>Whitby, Daniel, 1638-1726.</author>
+               </titleStmt>
+               <extent>[6], 29 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for A. Churchill ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXCI [1691]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: cropped and tightly bound, with print show-through.</note>
+                  <note>Marginal notes.</note>
+                  <note>Reproduction of original in the Union Theological Seminary Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Apologetics --  Early works to 1800.</term>
+               <term>Apologetics --  History --  17th century.</term>
+               <term>Holy Spirit.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-06</date>
+            <label>Corinne Vieracker</label>Sampled and proofread</change>
+         <change>
+            <date>2013-06</date>
+            <label>Corinne Vieracker</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:107109:1"/>
+            <p>A DISCOURSE, Confirming the TRUTH and CERTAINTY OF THE Chriſtian Faith From the Extraordinary GIFTS and OPERATIONS OF THE <hi>Holy Ghoſt,</hi> Vouchſafed to the APOSTLES and PRIMITIVE PROFESSORS of that FAITH.</p>
+            <p>By <hi>Daniel Whitby,</hi> D. D. and <hi>Chantor</hi> of the Church of <hi>Sarum.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>A. Churchill,</hi> at the <hi>Black Swan</hi> in <hi>Pater-Noſter-Row,</hi> MDCXCI.</p>
+         </div>
+         <div type="Imprimatur">
+            <pb facs="tcp:107109:2"/>
+            <p>Imprimatur.</p>
+            <p>
+               <hi>Geo. Royſe.</hi> R. Rmo. in Chriſto Patri at Dom. Dom. Johanni Archiep. Cantuar. a Sacris.</p>
+            <p>
+               <hi>June the 30th. 1691.</hi>
+            </p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:107109:2"/>
+            <head>THE PREFACE TO THE READER.</head>
+            <p>THAT this Diſcourſe may not ſeem to take that for granted which cannot be proved, and that ſome Notions in it, ſeemingly new, may give the <hi>Reader</hi> no Offence. I crave leave to premiſe:</p>
+            <p>
+               <hi>Firſt,</hi> That the <hi>Holy Ghoſt</hi> was certainly deſigned for a Witneſs to the Truth of our <hi>Lord's</hi> Reſurrection, and Exaltation to the Right-Hand of <hi>Majeſty,</hi> and given to confirm the <hi>Chriſtian</hi> Faith. For,</p>
+            <p>
+               <hi>Firſt,</hi> Our <hi>Saviour</hi> doth aſſure his <hi>Diſciples,</hi> that this his <hi>Advo<g ref="char:EOLhyphen"/>cate</hi> ſhould at his coming <hi>convince the World of Sin,</hi> viz. of the great Sin of Infidelity, <hi>becauſe they believed not in him;</hi>
+               <note place="margin">16. <hi>Jo.</hi> 9, 10.</note> and <hi>of Righteouſneſs,</hi> or that He, though condemned by the <hi>Sanhedrim</hi> as a <hi>Falſe Prophet,</hi> and a <hi>Deceiver of the People,</hi> was a just and righteous Perſon, one highly favoured by the God of Heaven, becauſe the ſending of the <hi>Holy Spirit</hi> was a full Evidence that he was <hi>Gone to the Father,</hi> that he was exalted to the Right-hand of God, and had <hi>received from the Father the Promiſe of the Holy Ghoſt.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> St. <hi>John,</hi> the beloved <hi>Diſciple,</hi> doth inform us that the <hi>Spirit</hi> was the great <hi>Witneſs that Jeſus was the Son of God,</hi>
+               <note place="margin">
+                  <hi>Joh.</hi> 5.6, 8.</note> and that of the <hi>three Witneſſes on Earth</hi> to this great Truth, the <hi>Holy Spirit</hi> was the first.</p>
+            <pb facs="tcp:107109:3"/>
+            <p>
+               <hi>Thirdly,</hi> St. <hi>Paul</hi> doth frequently declare, that by the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>i. e. the Gifts,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, 1 <hi>Cor.</hi> 16. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, 2 <hi>Cor.</hi> 1.21, 22.</note> 
+               <hi>and Diſtributions of the Holy Ghoſt, the Teſti<g ref="char:EOLhyphen"/>mony of Chriſt was confirmed</hi> to all <hi>Chriſtians,</hi> and that God by giving this <hi>Holy Spirit</hi> to them, <hi>did confirm them in Chriſt.</hi>
+            </p>
+            <p>And upon this, as well as other Accounts; he ſeemeth to be called <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <hi>the Advocate</hi> of Chriſt, becauſe he was to undertake the Defence of the Miniſtry, and the <hi>Prophetick Office</hi> of our <hi>Lord</hi> againſt the <hi>Preſidents</hi> of the <hi>Sinagogue,</hi> and the great <hi>Sanhedrim</hi> of the <hi>Jews,</hi> who had condemned him, and procur'd his Death as a <hi>Falſe Prophet.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> I premiſe that the <hi>Sin againſt the Holy Ghoſt</hi> ſeems beſt explained by that Notion of the <hi>Holy Ghoſt,</hi> which I have here eſpouſed, to make this as clear as I am able; let it be noted,</p>
+            <p>
+               <hi>Firſt,</hi> That there is a manifeſt Diſtinction in the <hi>New Teſtament</hi> betwixt <hi>the Power of working Signs and Miracles,</hi> and <hi>the Gifts and Diſtributions of the Holy Ghoſt.</hi> As when St. <hi>Paul</hi> ſpeaketh of <hi>things wrought by him to make the Gentiles obedient in Word and Deed, by mighty Signs, and Miracles,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, 15. <hi>Rom.</hi> 19.</note> 
+               <hi>and Powers of the Holy Ghoſt,</hi> when he ſpeaks of <hi>the Goſpel preached by him in demonſtration of the Spirit,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, 1 <hi>Cor</hi> 2.4.1.</note> 
+               <hi>and in Power,</hi> and of the Duty of the <hi>Clergy</hi> to <hi>commend themſelves to others by the Holy Ghoſt,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 2 <hi>Cor.</hi> 6.6, 7.</note> 
+               <hi>and by the Power of God;</hi> VVhen he ſpeaks to his <hi>Galathians,</hi> of <hi>him that miniſtreth the Spirit,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, 3 <hi>Gal.</hi> 5.</note> 
+               <hi>and worketh Miracles among them,</hi> And to his <hi>Theſ<g ref="char:EOLhyphen"/>ſalonians,</hi> of the <hi>Goſpel coming to them in Power,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 1 <hi>Theſ.</hi> 1.5.</note> 
+               <hi>and in the Holy Ghoſt.</hi> And laſtly, to the <hi>Jewiſh Converts,</hi> that <hi>God bore witneſs to the Word of his Grace, by Signs and Won<g ref="char:EOLhyphen"/>ders, and divers Miracles,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, 2 <hi>Heb</hi> 4.</note> 
+               <hi>and Diſtri<g ref="char:EOLhyphen"/>butions of the Holy Ghoſt.</hi> And that
+<pb facs="tcp:107109:3"/>being baptized,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, 6 <hi>Heb.</hi> 4, 5.</note> they were made <hi>Partakers of the Holy Ghoſt, and had taſted the Powers of the World to come.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> That the <hi>Holy Ghoſt</hi> was ſent, after our <hi>Saviour's</hi> Re<g ref="char:EOLhyphen"/>ſurrection, to bear witneſs both to the Truth of his Reſurrection, and of the Doctrine which he taught, He giving in his Teſtimony with the <hi>Apoſtles,</hi> of theſe things. For <hi>when the Advocate cometh,</hi>
+               <note place="margin">15 <hi>Joh.</hi> 16, 17.</note> 
+               <hi>which I,</hi> ſaith Chriſt, <hi>will ſend you from the Father, he ſhall teſtifie of me, and you alſo ſhall bear Witneſs of me, for you have been with me from the beginning.</hi> Accordingly <hi>we,</hi> ſaith St. <hi>Peter, are his Witneſſes of theſe things,</hi>
+               <note place="margin">5 <hi>Act</hi> 32</note> 
+               <hi>and ſo is the Holy Ghoſt which he hath given to thoſe that obey him.</hi>
+            </p>
+            <p>
+               <hi>Thirdly,</hi> That our <hi>Lord Jeſus,</hi> and his <hi>Apoſtles</hi> ſeem plainly to aſſert the <hi>Holy Spirit</hi> was to give in his Teſtimony, after his Reſur<g ref="char:EOLhyphen"/>rection and Aſcenſion to the <hi>Father:</hi> This is ſo evident from the forecited Places, and from that Expreſſion of St. <hi>John,</hi>
+               <note place="margin">7 <hi>Joh.</hi> 39.</note> 
+               <hi>the Holy Ghoſt was not yet, becauſe that Jeſus was not yet glorified;</hi> that it ſeems needleſs to add any thing in farther Confirmation of it.</p>
+            <p>Now hence it follows, that the <hi>Holy Ghoſt</hi> was to be a ſucceeding Teſtimony to that of the Miracles wrought by our <hi>Saviour</hi> upon Earth, and conſequently that <hi>the Sin againſt the Holy Ghoſt,</hi> was a Sin chief<g ref="char:EOLhyphen"/>ly, and compleatly to be committed afterwards; which alſo ſeemeth probable even from the Tenor of o<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r Saviours Words.<note place="margin">12 <hi>Luk.</hi> 10. 12 <hi>Matt.</hi> 24. 3 <hi>Mark</hi> 29.</note> 
+               <hi>Whoſoever ſhall ſpeak a word againſt the Son of Man</hi> (as you now do, who ſay, <hi>He hath a Devil, and caſts out Devils by</hi> Beelzebub) <hi>it ſhall be forgiven him,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>but whoſever</hi> (hereafter) <hi>ſhall blaſpheme againſt the Holy Ghoſt, it ſhall not be forgiven him.</hi>
+            </p>
+            <p>
+               <hi>Fourthly,</hi> Obſerve that this was the laſt Teſtimony God would ex<g ref="char:EOLhyphen"/>hibit to the <hi>Jews,</hi> to evidence to them that <hi>Jeſus</hi> was indeed the true <hi>Meſſiah,</hi> and that on their Rejection of it depended their being given up to judicial Blindneſs, and to utter Deſolation, and Exciſion from being any more hi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Church,</hi> and his <hi>peculiar People.</hi> Accordingly, after this Blaſphemy againſt our <hi>Lord,</hi> both He, and his <hi>Diſciples,</hi> ſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ill call them to that Faith and Repentance which would aſſuredly pro<g ref="char:EOLhyphen"/>cure their Pardon; but then He warns them of the Greatneſs of their Sin, as being next to that which was unpardonable, informing them,
+<pb facs="tcp:107109:4"/>that as they had blaſphemed the Miracles wrought <hi>by he Finger of God,</hi> or <hi>by the Power of the Spirit</hi> before their Eyes, ſo if they ſhould add to this, the Contempt of thoſe internal Gifts and Operations of the <hi>Holy Ghoſt,</hi> which were to be vouchſafed after his Reſurrection, for farther Confirmation that he was the Son of God, their Sin ſhould then become unpardonable. And the Author to the <hi>Hebrews,</hi> declares it <hi>a thing impoſſible to renew them to Repentance,</hi>
+               <note place="margin">6 <hi>Heb.</hi> 5, 6.</note> who being made <hi>Partakers of the Holy Ghoſt, and having taſted the Pow<g ref="char:EOLhyphen"/>ers of the World to come,</hi> did notwithſtanding wilfully apoſtatize from the Profeſſion of the <hi>Chriſtian Faith;</hi> for that by the word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, in that Expreſſion, we are to underſtand <hi>miraculous Powers</hi> may be concluded, not only from the like <g ref="char:V">Ʋ</g>ſe of the Word in this <hi>Epiſtle,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 2 <hi>Hebr.</hi> 4. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. 2 <hi>Act.</hi> 22. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.4 <hi>Act.</hi> 33. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 8 <hi>Act.</hi> 13.<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 19 <hi>Act.</hi> 10. See 15. <hi>Rom.</hi> 19. 1 <hi>Cor.</hi> 2.4 2 <hi>Cor.</hi> 6.7. 3 <hi>Gal.</hi> 5. 1 <hi>Theſ.</hi> 1.5.</note> but alſo in many o<g ref="char:EOLhyphen"/>ther Places of the <hi>New Teſtament. 2.</hi> That <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>the World to come,</hi> denotes the Times of the <hi>Meſſiah,</hi> cannot be reaſonably doubted by him, who well con<g ref="char:EOLhyphen"/>ſiders, that <hi>Chriſt</hi> himſelf, according to the Tranſlation,<note place="margin">9 <hi>Eſa.</hi> 6.</note> or Expoſition of the <hi>Septuagint,</hi> is ſtiled <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>the Father of the future Age,</hi> and that the <hi>Apo<g ref="char:EOLhyphen"/>ſtle</hi> writes to the <hi>Jews,</hi> in whoſe Account there were <hi>two Ages,</hi> the one before, the other after the coming of our <hi>Saviour,</hi> which they con<g ref="char:EOLhyphen"/>ſtantly ſtiled <hi>Holam Habba, the future Age,</hi> or the <hi>World to come,</hi>
+               <note place="margin">2 <hi>Heb.</hi> 5.</note> as the <hi>Apoſtle</hi> intimates in that Expreſſion, <hi>For unto Angels hath he not put into Subjection the World to come;</hi> that is, whereas the World before <hi>Chriſt</hi> was chiefly governed by <hi>Angels, the Almighty having divided the Nations,</hi>
+               <note place="margin">32 <hi>Deut.</hi> 8.</note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>ac<g ref="char:EOLhyphen"/>cording to the Number of the Angels</hi> which were to <hi>preſide</hi> over them,<note place="margin">17 <hi>Eccl.</hi> 17.</note> ſaith the <hi>Septuagint,</hi> and <hi>Set,</hi> of them, <hi>a Ruler over every People,</hi> ſaith the <hi>Son of Syrach,</hi> according to the conſtant Doctrine of the <hi>Jews,</hi> embraced alſo generally by the<note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Juſt. M. Apol. P. 44. vid. Athenag. <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g. pro Chriſtian. P. 27. c. Clem. Recogn. l. 4. c. 4.2. Euſeb. Demonſt. Evang. l. 4.</note> 
+               <hi>Antient Fathers, the World to come,</hi> or <hi>Chriſtian State,</hi> is not thus put in Subjection to them, but to one far exceeding the <hi>Angels,</hi> even <hi>the only begot<g ref="char:EOLhyphen"/>ten Son of God.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:107109:4"/>
+            <head>A <hi>Diſcourſe,</hi> tending to evince the <hi>Truth</hi> of <hi>Chriſtian Faith;</hi> from the extraordinary <hi>Gifts</hi> and <hi>Operations</hi> of the <hi>Holy Ghoſt,</hi> by which it was at firſt confirmed.</head>
+            <p>WHoſoever well conſiders the admirable Perfection of the <hi>Chriſtian Faith,</hi> how far the Doctrines and Precepts of it do excell all other Doctrines and Precepts, which either in pretence, or truly have been revealed to the World, will find ſufficient Rea<g ref="char:EOLhyphen"/>ſon to believe that ſuch an excellent Diſpenſation took it's riſe from the moſt excellent of Beings. For it is,</p>
+            <p n="1">1. A Revelation which repreſents God to us ſuch in all Re<g ref="char:EOLhyphen"/>ſpects, as Men of Wiſdom and Diſcretion would deſire to be their <hi>Governor,</hi> viz. a God of infinite Power to protect, of in<g ref="char:EOLhyphen"/>finite Wiſdom to direct us, and of the greateſt Goodneſs, Love and Compaſſion to deſign, and to promote our Happineſs and Welfare.</p>
+            <p n="2">2. It preſcribes ſuch Laws as every wiſe Man would chuſe to live by, they being <hi>Holy, Juſt and Good,</hi>
+               <note place="margin">7 <hi>Rom.</hi> 12. 12. <hi>Rom.</hi> 1.</note> and Obedience they require, being our <hi>reaſonable Service,</hi> that is, ſuch Service as our own Reaſon cannot but approve of as fit and proper to be done.</p>
+            <p n="3">3. It is a Diſpenſation which propounds ſuch Arguments to perſwade us to yield Obedience to theſe: Laws, as no Man, who regardeth his own Intereſt, and truly loves himſelf, can reſiſt, they being the moſt admirable Bleſſings promiſed to the Obedi<g ref="char:EOLhyphen"/>ent, and the moſt direful and laſting Evils threatned to the Diſobedient.</p>
+            <p n="4">4. It is a Revelation which affords us good Aſſurance of the moſt powerful Aſſiſtance to perform this Duty, even the Aids of Divine Grace.</p>
+            <pb n="2" facs="tcp:107109:5"/>
+            <p>Now that ſuch a Revelation hath in it the true Characters of a Divine Religion, that it contains a Doctrine worthy of God, and therefore worthy of all Acceptation, and cannot reaſonably be thought a <hi>politick</hi> Contrivance of the Wit of Man, much leſs the Product of wicked and deluding <hi>Spirits</hi> will appear evident to any who hath Ability, and Opportunity to compare it with all pretended Doctrines and Religions, which either the Wit of Man, or Craft of <hi>Satan,</hi> had before brought into the World.</p>
+            <p>Let any Perſon, who thinks otherwiſe, produce any <hi>Religion</hi> which doth ſo naturally tend to render Men truly devout and pious towards God, Chaſt and Temperate, Patient and Con<g ref="char:EOLhyphen"/>tented under all Conditions, more Juſt and Honeſt, Kind and Peaceable, and Fruitful in good Offices towards all Men, and which affords more ſolid Comforts and Supports under the Mi<g ref="char:EOLhyphen"/>ſeries of human Life; let him produce one Book, beſides the <hi>Holy Scriptures,</hi> compoſed before they were written, which gives us ſuch a clear, and true <hi>Idea</hi> of the Attributes and Works of God, preſcribeth a more rational Service of him, hath Rules of Life more equal in themſelves, more beneficial to Mankind, which doth more fully tend to make Men better in all Reſpects, Relations and Conditions; and which doth offer more power<g ref="char:EOLhyphen"/>ful Enducements to perſwade them to be ſo, and then he may have reaſon to prefer what he hath thus produced before the <hi>Pandects</hi> of the <hi>Chriſtian Faith;</hi> but if no other Book can vie with the <hi>New Teſtament,</hi> no other <hi>Religion</hi> can compare with that which is contained in it; then muſt we either ſay with <hi>Epicurus,</hi> that God is not concerned to be obeyed and worſhip<g ref="char:EOLhyphen"/>by the Sons of Men; or, with the <hi>Infidel,</hi> diſcard all Revelati<g ref="char:EOLhyphen"/>ons of his Will as falſe; or grant that this, above all others, de<g ref="char:EOLhyphen"/>ſerves to be embraced as the muſt true and perfect Revelation of the Will of God.</p>
+            <p>But this Argument hath by much better Pens been handled, and improved into ſo clear a Demonſtration of the Truth of <hi>Chriſtian Faith,</hi> that nothing but the diſagreeing Lives of <hi>Chri<g ref="char:EOLhyphen"/>ſtians,</hi> which generally fall ſo exceeding ſhort of what this per<g ref="char:EOLhyphen"/>fect Rule preſcribes, or run ſo counter to it, could make Men to ſuſpect the ſhining Evidence of it.</p>
+            <pb n="3" facs="tcp:107109:5"/>
+            <p>I therefore have choſen to inſiſt upon another Argument, a<g ref="char:EOLhyphen"/>riſing from the <hi>Extraordinary Gifts</hi> and <hi>Diſtributions of the Holy Ghoſt,</hi> by which this Doctrine was at firſt confirmed, in which I hope to make ſome ſmall addition to the Performances of o<g ref="char:EOLhyphen"/>thers, and which I ſhall endeavor to confirm, by proving the enſuing Propoſitions.</p>
+            <p n="1">I. <q>That the Gifts and powerful Operations of the <hi>Holy Ghoſt</hi> were moſt aſſuredly vouchſafed to propagate and con<g ref="char:EOLhyphen"/>firm the <hi>Chriſtian Faith.</hi>
+               </q>
+            </p>
+            <p n="2">II. <q>That the Aſſiſtance of the <hi>Holy Ghoſt</hi> vouchſafed to our Lords <hi>Apoſtles,</hi> and to the <hi>Primitive Profeſſors</hi> of the <hi>Chriſtian Faith,</hi> are a moſt full and ample Confirmation of it, and a convincing Evidence that it is derived from the God of Truth.</q>
+            </p>
+            <p>Now that the Gifts and powerful Operations of the <hi>Holy Ghoſt</hi> were thus engaged to confirm and propagate the <hi>Chriſti<g ref="char:EOLhyphen"/>an Faith,</hi> will be apparent,</p>
+            <p n="1">1. From the Aſſurance which the <hi>Baptiſt</hi> gave,<note place="margin">44 Iſa. 3. 36 Ez. 27. 2 Joel 28.</note> both to the <hi>Jews</hi> in general, and to the <hi>Phariſees</hi> and <hi>Sadducees</hi> in particular, that the <hi>Meſſiah</hi> would ſuddenly baptize thoſe who believed in him with the <hi>Holy Ghoſt</hi> [3 <hi>Mat.</hi> 7.11.]</p>
+            <p n="2">2. From a like Promiſe which our <hi>Saviour</hi> made to his <hi>Diſci<g ref="char:EOLhyphen"/>ples,</hi> that he would ſend his <hi>Holy Spirit</hi> down upon them, and would <hi>baptize them with the Holy Ghoſt,</hi>
+               <note place="margin">16 John 13.</note> 
+               <hi>and Fire</hi> [15 John 26.5 Act. 5.] or with the <hi>Holy Ghoſt</hi> appearing in a fiery Shape, and by that <hi>Spirit</hi> would <hi>ſhew them things to come;</hi> and from his Promiſe made not to them only, but to Believers in general, that they ſhould receive the <hi>Holy Ghoſt,</hi>
+               <note n="*" place="margin">
+                  <q>Note that at the Feaſt of Tabernacles, they were accuſtomed to compaſs the Altar with Branches in their Hands, crying out <hi>Hoſanna,</hi> but on the laſt Day of the Feaſt, they were en<g ref="char:EOLhyphen"/>joyn'd to compaſs it thus ſeven times; ſaying ſome Prayers, in which they oft repeated theſe Words, <hi>Hoſanna</hi> and <hi>Hatzlicha,</hi> ſave now and proſper us, and, as they add, by the Inſtitution of their Prophets, they then fetch'd Water from the Fountain of <hi>Siloah,</hi> and brought in into the Temple to their Prieſts, who poured it out upon the Altar with the Wine of the Sacrifice, ſinging theſe Words of the Prophet <hi>Iſaiah, With joy ſhall ye draw Water out of the Wells of Salvation,</hi> 12 <hi>Iſa.</hi> 3. and whilſt they were thus ſinging, th y expected the <hi>Holy Spirit</hi> ſhould fall upon them,</q> 
+                  <hi>Talmud. tract. de feſto Tabernac. cap. c<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>a<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l.</hi> And hence we learn why this Day was called <hi>the great Day of the Feaſt,</hi> and why our <hi>Lord</hi> ſpake then to them of the <hi>Holy Ghoſt,</hi> under the Metaphor of <hi>Water.</hi>
+               </note> [7 John 38, 39.] and laſtly, from the Promiſe made by St. <hi>Peter</hi> to all <hi>Jews</hi> and <hi>Gentiles</hi>
+               <pb n="4" facs="tcp:107109:6"/>then preſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt at <hi>Jeruſalem,</hi> and being Witneſſes of the mira<g ref="char:EOLhyphen"/>culous Gifts of this good <hi>Spirit,</hi> confer'd on the <hi>Apoſtles</hi> in theſe Emphatical Expreſſions [2 <hi>Acts</hi> 38, 39] <hi>Repent and be baptized every one of you in the Name of Jeſus Chriſt, for the Remiſſion of ſins, and ye ſhalt receive the Gift of the Holy Ghoſt, for the Promiſe is to you, and to your Children, and to all that are afar off, even as ma<g ref="char:EOLhyphen"/>ny as the Lord our God ſhall call.</hi> Theſe things being ſo plainly foretold and certified, and made the matter of a Promiſe, we have good reaſon to conclude that they were true, for had no ſignal Evidence been given of the Completion of all the Pro<g ref="char:EOLhyphen"/>miſes now mentioned upon the <hi>Primitive Profeſſors</hi> of the <hi>Chriſtian Faith,</hi> the Expectation of the Chriſtians muſt have been entirely fruſtrated, and the whole Story of the Evangeliſt St. <hi>John,</hi> and of the Acts of the <hi>Apoſtles,</hi> muſt have been convinced of Falſe<g ref="char:EOLhyphen"/>hood, eſpecially when they ſo roundly do pronounce of Chriſts Diſciples, they were <hi>all filled with the Holy Ghoſt,</hi> and that <hi>great Grace was upon them all,</hi> 4 <hi>Acts</hi> 31, 33.</p>
+            <p n="2">2. Moreover, that this was the uſual Effect of <hi>Baptiſm,</hi> eſpe<g ref="char:EOLhyphen"/>cially where 'twas attended with the Impoſition of the <hi>Apoſtles</hi> Hand; that ſome of thoſe miraculous Gifts were for a time confor'd on all at <hi>Baptiſm,</hi> ſeems highly probable from the <hi>Baptiſts</hi> Words, who, when <hi>Jeruſalem, and all Judaea, and all the Region about Jordan had been baptized of him,</hi> ſpeaks thus to them [<hi>Mat.</hi> 3.11.] <hi>I indeed baptize you with Water to Repentance, but he that cometh after me, ſhall baptize you with the Holy Ghoſt, and Fire;</hi> from the Tenor of the Promiſe, 2 Joel 28. <hi>It ſhall come to paſs in the laſt days, I will pour out of my Spirit upon all Fleſh:</hi> From St. <hi>Peters</hi> Engagement, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>to every baptized Perſon, that he ſhould receive the Holy Ghoſt;</hi> and that becauſe the Promiſe did relate to all the <hi>Jews,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and all the called <hi>Gentiles;</hi> from St. <hi>Pauls</hi> Queſtion to the <hi>Diſciples</hi> of St. <hi>John</hi> (19 Acts 3, 5, 6.) What Baptiſm have ye receiv'd, who confeſs, that with it <hi>ye received not the Holy Ghoſt;</hi> and his baptizing them <hi>in the Name of the Lord Jeſus,</hi> that ſo the <hi>Holy Ghoſt</hi> might fall upon them. From his expreſs Words to the <hi>Church</hi> of <hi>Corinth,</hi> even where he is diſcourſing of theſe extraordinary Gifts (1 <hi>Cor.</hi> 12, 13.) <hi>That by one Spirit they were all baptized into one Body;</hi> and from his Declaration to the whole <hi>Church</hi> of <hi>Epheſus,</hi>
+               <note place="margin">1. <hi>Eph.</hi> 13.</note> that
+<pb n="5" facs="tcp:107109:6"/>
+               <hi>after they believed</hi> (and were baptized) <hi>they were all ſealed with the Spirit of Promiſe;</hi> and from the cloſe Connexion of the<note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>Juſt. M. Dial.</hi> 2. p. 94. D.</note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; or baptized Perſons, with the <hi>taſting of the Spiritual Gift,</hi> and <hi>being made Parta<g ref="char:EOLhyphen"/>kers of the Holy Ghoſt,</hi> and of <hi>the Powers of the World to come,</hi> 6 Heb. 4, 5. Here then we find a Promiſe of the <hi>Holy Ghoſt</hi> without reſtrictions, and a Completion of it anſwerable to the largeneſs of the Terms in which it was compris'd, and conſequently Matter of Fact a<g ref="char:EOLhyphen"/>vouched in Confirmation of the <hi>Apoſtles</hi> Teſtimony, of which, no Perſon that was baptized could be ignorant, and of the Falſ<g ref="char:EOLhyphen"/>hood of which Teſtimony, no <hi>Chriſtian</hi> could be Witneſs from his own Experience, without a Demonſtration of the Falſhood of the Aſſertors of that Faith.</p>
+            <p n="3">3. Their Writings give us great Aſſurance of the Completi<g ref="char:EOLhyphen"/>on of this Promiſe to Believers, the Hiſtory of the <hi>Acts</hi> of the <hi>Apoſtles</hi> begins with the Deſcent of the <hi>Holy Ghoſt</hi> on the <hi>Diſci<g ref="char:EOLhyphen"/>ples</hi> at the Day of <hi>Pentecoſt,</hi>
+               <note place="margin">Acts <hi>2.</hi>
+               </note> and the Experiment they gave of his miraculous Aſſiſtance <hi>to Men of every Nation under Heaven;</hi> it proceeds to tell us, how he fell on the <hi>Samaritan</hi> Converts at the <hi>Impoſition</hi> of the Hands of <hi>John</hi> and <hi>Peter;</hi>
+               <note place="margin">
+                  <hi>Acts</hi> 8, 17.</note> how at the Preaching of the ſame <hi>Apoſtle,</hi> he fell upon the <hi>Family,</hi>
+               <note place="margin">
+                  <hi>Acts</hi> 10, 44.</note> the <hi>Friends and Kindred of Cornelius,</hi> and upon twelve Diſciples of the <hi>Bap<g ref="char:EOLhyphen"/>tiſt,</hi> upon the Impoſition of the Hands of the <hi>Apoſtle Paul.</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Rom.</hi> 1.11.</note> The ſame <hi>Apoſtle</hi> beginneth his <hi>Epiſtle</hi> to the <hi>Romans</hi> thus, <hi>I long to ſee you, that I may impart unto you ſome ſpiritual Gift, that you may be eſtabliſhed.</hi> And he concludes it thus, <hi>I know that when I come to ſee you, I ſhall come in the Fulneſs of the Bleſſing of the Goſpel of Chriſt.</hi>
+               <note place="margin">
+                  <hi>Rom.</hi> 15.29.</note> In his <hi>Twelfth Chapter,</hi>
+               <note place="margin">
+                  <hi>Rom.</hi> 12, 6.</note> he declares that he had <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>di<g ref="char:EOLhyphen"/>vers Gifts, according to the Grace given to them;</hi> particularly, that of <hi>Propheſie.</hi> In his <hi>Fifteenth Chapter,</hi> he declares he was <hi>the Miniſter of Jeſus Chriſt to the Gentiles,</hi>
+               <note place="margin">
+                  <hi>Rom.</hi> 15, 16.</note> 
+               <hi>miniſtring the Goſpel of God to them, that the Oblation of the Gentiles to God might be ac<g ref="char:EOLhyphen"/>ceptable, being ſanctified by the Holy Ghoſt;</hi> adding,<note place="margin">
+                  <hi>Rom. v.</hi> 81.</note> that <hi>Chriſt had efficaciouſly wrought with him to make the Gentiles obedient in Word and Deed, by mighty Signs and Wonders, and by the Power of the Spirit of God.</hi> In his <hi>Firſt Epiſtle</hi> to the <hi>Church</hi> of <hi>Corinth,</hi> he abounds in ſuch Expreſſions, as manifeſtly do reſpect theſe Gifts not only exerciſed by him, but received by them. <hi>I
+<pb n="6" facs="tcp:107109:7"/>thank my God,</hi>
+               <note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#MURP" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>.</hi> 11 5, 6, 7.</note> ſaith he, <hi>for the Grace given you in Jeſus Chriſt, that in every thing you are enriched in him in all <g ref="char:V">Ʋ</g>tterance</hi> (or Tongues) <hi>and all Knowledge, even as the Testimony of Chriſt was confirmed in you, ſo that you are deficient in no Gift.</hi> He ſpends his whole <hi>Twelfth Chapter</hi> in the Enumeration of thoſe Gifts, by which the Manifeſtation of the Spirit was confirmed among them, viz. <hi>the Gifts of Wiſdom,</hi>
+               <note place="margin">1 <hi>Cor.</hi> 12 8, 9, 10, 29, 30.</note> 
+               <hi>Knowledge, Propheſie,</hi> and <hi>the diſcerning of the Mind of God, the Gift of Miracles,</hi> of <hi>Faith,</hi> of <hi>Healing,</hi> of <hi>divers kinds of Tongues, and the Interpretation of them;</hi> concluding with theſe Queſtions, <hi>Are all Apoſtles? Are all Prophets? Are all Teachers? Are all Workers of Miracles? Have all the Gifts of Healing? Do all ſpeak with Tongues? Do all interpret? but covet earneſtly the beſt Gifts.</hi>
+               <note place="margin">2 <hi>Cor.</hi> 8 7.</note> In his <hi>Second Epiſtle,</hi> he declares that they abounded <hi>in Faith, in Utterance and Knowledge.</hi> He chides them for abuſing theſe extraordinary Gifts, by making them Occaſions of their Boaſting in that miſtaken Place,<note place="margin">1 <hi>Cor.</hi> 4.7.</note> 
+               <hi>What haſt thou</hi> (of theſe Gifts) <hi>which thou haſt not received? and if thou haſt received them, wherefore doſt thou boaſt, as if thou hadſt not received them?</hi> and for their uſing them, ſo as to breed Confuſion in the Church,<note place="margin">1 <hi>Cor.</hi> 14 26.</note> ſaying, <hi>How is it Bre<g ref="char:EOLhyphen"/>thren, that when ye come together, every one of you hath a Pſalm, hath a Doctrine, hath a Tongue, hath a Revelation, hath an Inter<g ref="char:EOLhyphen"/>pretation? Let all things be done to edifying.</hi> His Apoſtleſhip be<g ref="char:EOLhyphen"/>ing deſpiſed, or queſtioned by ſome, or being judg'd inferior to that of others, he confirms and juſtifies it by declaring, That <hi>his Preaching was not in the enticeing Words of Man's Wiſdom,</hi>
+               <note place="margin">1 <hi>Cor.</hi> 2.4.</note> 
+               <hi>but in Demonſtration of the Spirit, and in Power, that they themſelves were manifeſtly declared to be the Epiſtle of Chriſt, miniſtred by him, written not with Ink;</hi>
+               <note place="margin">2 <hi>Cor.</hi> 3.1, 3.</note> 
+               <hi>but with the Spirit of the living God;</hi> and that he therefore needed no other <hi>Letters of Commendation to them;</hi> that <hi>he was not a whit behind the very chief of the Apoſtles,</hi>
+               <note place="margin">2 <hi>Cor.</hi> 11.4, 5.</note> 
+               <hi>and that they had received no other Spirit than what they had received from him, that in nothing was he behind the very chief of the Apoſtles, the Signs of an Apoſtle being wrought among them by him in all Patience, in Signs and VVonders,</hi>
+               <note place="margin">2. <hi>Cor.</hi> 12.12, 13.</note> 
+               <hi>and mighty Deeds;</hi> and that <hi>in nothing were they inferiour to any other Churches.</hi> In his <hi>Epiſtle</hi> to the <hi>Galatians,</hi> he compares, himſelf with the <hi>chief of the Apoſtles,</hi> and the <hi>Pillars of the Church,</hi>
+               <note place="margin">2. <hi>Cal.</hi> 7.8, 9.</note> declaring, that <hi>he who wrought effectually in</hi> Peter <hi>to the Apoſtleſhip of the Circumciſion, was as efficacious in him towards the Gentiles, that theſe Pillars ſaw, and perceived by the Grace given
+<pb n="7" facs="tcp:107109:7"/>to him, that the Goſpel of Uncircumciſion was committed to him, as the Goſpel of the Circumciſion was to</hi> Peter, and therefore <hi>gave unto them the Right-hand of Fellowſhip, that he with</hi> Barnabas,<note place="margin">3. <hi>Gal.</hi> 13, 14. 1. <hi>Eph.</hi> 3.15. <hi>Rom.</hi> 29. 6. <hi>Heb.</hi> 4.</note> 
+               <hi>ſhould go unto the Gentiles, and they unto the Circumciſion:</hi> Adding for Conſola<g ref="char:EOLhyphen"/>tion to the <hi>Gentiles,</hi> that <hi>Chriſt had redeemed them from the Curſe of the Law, that the Bleſſing of</hi> Abraham <hi>might come upon the</hi> Gen<g ref="char:EOLhyphen"/>tiles, <hi>that they might receive the Promiſe of the Spirit through Faith.</hi> He magnifies the God of Heaven, for <hi>bleſſing his Epheſians with all Spiritual Bleſſings in heavenly things</hi>
+               <note n="*" place="margin">
+                  <p>Note that <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> may be ſo rendred in this Place, is probable.</p>
+                  <p n="1">1. From the Phraſe <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, for the Gifts of the <hi>Holy Ghoſt</hi> are ſtiled (15. <hi>Rom.</hi> 29. <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, the Bleſſing of the Goſpel, and the Promiſe of the Spirit <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> the Bleſſing of <hi>Abra<g ref="char:EOLhyphen"/>ham.</hi> 3. <hi>Gal.</hi> 14.</p>
+                  <p n="2">2. Becauſe theſe Gifts are ſtiled <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, thus when our Saviour had (3. <hi>John.</hi> 12.) diſcourſed of the Spirit received in Baptiſm, he ſaith he had told them <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, and they who were Partakers of theſe Gifts, are ſaid to have taſted <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. <hi>vis</hi> of the heavenly Gift. 7. <hi>Heb.</hi> 4.</p>
+               </note> or Gifts) <hi>in Chriſt Jeſus:</hi> he prays that <hi>God would</hi> farther <hi>give unto them the Spirit of Wiſdom and Revelation, for the Acknowledgment of Chriſt;</hi> and he exhorts them <hi>to be filled with the Spirit, ſpeaking one to another in Pſalms and Hymns, and ſpiritual Songs:</hi> The ſame Exhortation he repeats to his <hi>Coloſſians:</hi> And a like Prayer he makes for them, <hi>that they may be filled with the Knowledge of his Will in all Wiſdom, and ſpiritual <g ref="char:V">Ʋ</g>nderſtanding.</hi> Two of his Admonitions to the <hi>Theſſalonians</hi> are conceived in theſe Words, <hi>quench not the Spirit, deſpiſe not Propheſies.</hi>
+               <note n="*" place="margin">5 <hi>Eph.</hi> 16.17.</note> 
+               <note n="†" place="margin">3 <hi>Col.</hi> 16. 1 <hi>Col.</hi> 9.</note> 
+               <note n="‖" place="margin">1 <hi>Theſ.</hi> 5.19, 20.</note> The Author to the <hi>He<g ref="char:EOLhyphen"/>brews</hi> pronounces it a dreadful thing to fall from the Profeſſion of the <hi>Chriſtian Faith,</hi>
+               <note place="margin">6 <hi>Hebr.</hi> 4, 5.</note> becauſe upon their firſt embracing of it, they had <hi>taſted of the heavenly Gift, and of the powers of the VVorld to come, and were made partakers of the</hi> Holy Ghoſt; and therefore by revolting, after they had thus <hi>received the Knowledge of the Truth,</hi>
+               <note place="margin">chap. <hi>10.</hi> verſ. <hi>29.</hi>
+               </note> they did <hi>deſpite to the Spirit of Grace.</hi> St. <hi>Peter</hi> advertiſeth the ſame converted <hi>Jews</hi> that the <hi>Goſpel was preached to them by the Aſſiſtance of the</hi> Holy Ghoſt, <hi>ſent down from Heaven:</hi>
+               <note place="margin">1 <hi>Pet.</hi> 1.12.</note> And he gives theſe inſtructions to them, for the Uſe of their extraordinary Gifts,<note place="margin">
+                  <hi>ch</hi> 4. 10, 11.</note> 
+               <hi>As every Man hath received</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>the Gift, ſo let them miniſter the ſame one to another, as good Stewards of the manifold Grace of God; if any Man ſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eak, let him ſpeak as the Oracles of God; if any Man mini<g ref="char:EOLhyphen"/>ſter, let him do it as of the Ability which God giveth, that God in all
+<pb n="8" facs="tcp:107109:8"/>things may be glorified through Jeſus Chriſt.</hi> St. <hi>John</hi> informs the <hi>Chriſtians,</hi>
+               <note place="margin">1 <hi>John</hi> 2.20, 27.</note> that <hi>they had an <g ref="char:V">Ʋ</g>nction from the Holy one, and they knew all things neceſſary, and that the <g ref="char:V">Ʋ</g>nction they had received, a<g ref="char:EOLhyphen"/>biding in them, they had no need that any Man ſhould teach them, but as the ſame Anointing taught them all things. Moreover,</hi> ſaith he,<note place="margin">
+                  <hi>c.</hi> 3.24.</note> 
+               <hi>hereby do we know that we abide in Chriſt by the Spirit which he hath given us;</hi> and that this was their Preſervative againſt the many <hi>Antichriſts</hi> that were in the World.</p>
+            <p n="4">4. That theſe extraordinary Operations of the <hi>Holy Ghoſt</hi> were thus vouchſafed to confirm the <hi>Chriſtian</hi> Faith, is farther evident from the Conſideration, that the <hi>Apoſtles</hi> do, with the greateſt Confidence, produce this Teſtimony of the <hi>Holy Ghoſt,</hi> as a convincing Demonſtration of the <hi>Reſurrection</hi> of our <hi>Lord,</hi> and of the Truth of what they had delivered in his Name; and as a full juſtification both of their Office, and their Actions: <hi>The God of our Fathers,</hi>
+               <note place="margin">5. <hi>Acts,</hi> 30, 31, 32.</note> ſaith St. <hi>Peter, hath raiſed Jeſus to be a Prince, and a Saviour, to give Repentance unto Iſrael; and we are his Wit<g ref="char:EOLhyphen"/>neſſes of theſe things, and ſo is alſo the Holy Ghost, which he hath given to thoſe that obey him.</hi> When Peter was accuſed for tranſ<g ref="char:EOLhyphen"/>greſſing the <hi>Jewiſh</hi> Rites, by converſing with <hi>Cornelius,</hi> and others uncircumciſed Perſons, he apologizes for himſelf, by ſaying, <hi>The Holy Ghoſt fell upon them,</hi>
+               <note place="margin">11 <hi>Acts,</hi> 15.</note> 
+               <hi>as upon us at the beginning;</hi> and by that fact, convinced the <hi>Zealots</hi> of the Circumciſion, when the believing <hi>Phariſees</hi> contended that it was needful to Circum<g ref="char:EOLhyphen"/>ciſe the <hi>Gentiles,</hi> and <hi>to command them to keep the Law of</hi> Moſes, St. <hi>Peter</hi> by this Argument confutes them, That <hi>God who knows the hearts of Men, bare witneſs,</hi> that though uncircumciſed, they were accepted with him,<note place="margin">15. <hi>Acts,</hi> 8.</note> by <hi>giving them the Holy Ghoſt even as he did to us.</hi> St. <hi>Paul</hi> ſpeaks thus to the <hi>Church</hi> of <hi>Corinth, My preaching was in demonstration of the Spirit,</hi>
+               <note place="margin">1 <hi>Cor.</hi> 2 4.</note> and <hi>in power,</hi> that they had received the Confirmation of the Faith bv the <hi>Arrabo,</hi> the Pledge,<note place="margin">2 <hi>Cor.</hi> 5.5.</note> or <hi>earnest of the Spirit,</hi> by whoſe Teſtimony they were abundantly confirmed in the Truth of what they did be<g ref="char:EOLhyphen"/>lieve, and in the Certainty of what they did expect. Theſe Gifts are repreſented by him, as a convincing Motive to the <hi>Prophet,</hi> or <hi>ſpiritual Perſon,</hi> to acknowledge, that <hi>what he wrote was the Commandment of God:</hi>
+               <note place="margin">1 <hi>Cor.</hi> 14.3</note> That the <hi>Goſpel</hi> which he prea<g ref="char:EOLhyphen"/>ched was the undoubted Truth, and that which was to be re<g ref="char:EOLhyphen"/>tain'd
+<pb n="9" facs="tcp:107109:8"/>in oppoſition to the Law, he proves to the <hi>Galatians,</hi> be<g ref="char:EOLhyphen"/>cauſe the miniſtration of the <hi>Spirit,</hi> and the Power of working Miracles was the reſult not of the Law, but of the Goſpel-Diſ<g ref="char:EOLhyphen"/>penſation: For thus he puts the Queſtion to them:<note place="margin">3 <hi>Gal.</hi> 1. 3 <hi>Gal.</hi> 2, 3 <hi>Gal.</hi> 3, 3 <hi>Gal.</hi> 5.</note> 
+               <hi>O fooliſh Galatians, who hath bewitched you, that you ſhould not obey the Truth? this only would I learn of you<g ref="char:punc">▪</g> Received you the Spirit by the Works of the Law, or by the hearing of Faith? Are you ſo fooliſh, having begun in the Spirit, are you made perfect in the Fleſh? He therefore that miniſtreth the Spirit, and worketh Miracles among you, doth be it by the Works of the Law, or by the Hearing of Faith?</hi> In his <hi>Epiſtle</hi> to the <hi>Theſſalonians,</hi> he argues their <hi>Election by God</hi> be<g ref="char:EOLhyphen"/>cauſe <hi>his Goſpel came not to them in Word only,</hi>
+               <note place="margin">1 <hi>Theſ.</hi> 1. <hi>v.</hi> 5, 6.</note> 
+               <hi>but in Power and in the Holy Ghoſt, and much aſſurance, and they received the Word in much affliction, and with joy in the Holy Ghoſt.</hi> In his <hi>Epiſtle</hi> to the <hi>Hebrews</hi> he ſhews the dreadful Iſſue of the Contemners of the Goſpel upon this account, that <hi>God bare witneſs to it by Signs,</hi>
+               <note place="margin">2 <hi>
+                     <gap reason="illegible" resp="#MURP" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 4.</hi>
+               </note> 
+               <hi>and Wonders, and divers Miracles, and Diſtributions of the Holy Ghost, according to his will.</hi> Now Arguments of this nature nei<g ref="char:EOLhyphen"/>ther could be urg'd by, nor being offer'd, could prevail upon, wiſe and conſidering Men, had not the Matter of Fact, on which they did intirely depend, been unconteſtible.</p>
+            <p n="5">5. This argument receives yet farther ſtrength from this conſideration, that thoſe Gifts, and powerful Operations of the <hi>Holy Spirit</hi> were either ſuch of which even <hi>Infidels</hi> might, from the Nature of them, be convinced, or ſuch as from ſome out<g ref="char:EOLhyphen"/>ward, or ſenſible Appearance, or by their inward Operations and Effects, made themſelves known to them who had receiv'd them; for inſtance, the working of Miracles, as the making the Lame to walk, the Deaf to hear, the Blind to ſee, the Dead to live, which were all Miracles of Mercy, or the inflicting Blindneſs upon <hi>Elymas,</hi> or Death on <hi>Ananias</hi> and <hi>Saphira,</hi>
+               <note place="margin">13 <hi>Acts.</hi> 11. 5 <hi>Acts</hi> 5, 10.</note> the delivering Men up to <hi>Satan,</hi> the <hi>Rod</hi> which the <hi>Apoſtle</hi> threatens to the Diſobedient in the <hi>Church</hi> of <hi>Corinth,</hi> which were all Miracles of Judgment, the caſting out <hi>Devils</hi> by the Name of <hi>Jeſus,</hi> the healing the Sick by Impoſition of Hands, the Gifts of <hi>Prophecy,</hi> and diſcerning of Spirits, the Gifts of Tongues, and the Interpretation of them, if truly done, were things ſelf-evi<g ref="char:EOLhyphen"/>dent, and could not well be exercis'd without a ſenſible De<g ref="char:EOLhyphen"/>monſtration
+<pb n="10" facs="tcp:107109:9"/>to all that ſaw, perceiv'd, heard, or felt them, that they were perform'd: And therefore, by enabling his Servants to perform them, God gave <hi>full teſtimony to the Word of his Grace.</hi> Some of theſe Gifts,<note place="margin">1 <hi>Cor.</hi> 14.22, 23.</note> ſaith the <hi>Apostle, were ſigns not to them that believe, but to them that believed not,</hi> and by the Exerciſe of them <hi>he will be convinced, and the Secrets of his Heart will be made mani<g ref="char:EOLhyphen"/>feſt, and he will be induced to conſeſs that God is in you of a Truth;</hi> and therefore theſe are fitly ſtyled <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>the Mani<g ref="char:EOLhyphen"/>feſtation of the Spirit.</hi>
+               <note place="margin">1 <hi>Cor.</hi> 12.7.</note> The <hi>Baptiſm</hi> of the <hi>Spirit</hi> was at the firſt attended with a <hi>lambent Fire,</hi> ſo he fell on the <hi>Apoſtles</hi> in the ſhape of <hi>fiery Tongues,</hi>
+               <note place="margin">3 <hi>Mat.</hi> 16.</note> when our <hi>Lord Jeſus</hi> was baptized, the <hi>Holy Ghoſt</hi> deſcended on him in the <hi>Shape of a Dove,</hi> ſay the <hi>Evangeliſts,</hi>
+               <note place="margin">
+                  <hi>Epiph. Haer.</hi> 30. N. 13. 8 <hi>Rom.</hi> 23. 2 <hi>Cor.</hi> 1.22. 4 <hi>Eph.</hi> 30. <hi>Ch.</hi> 1. 13 8 <hi>Rom.</hi> 15, 16. 4 <hi>Gal.</hi> 6, 7. 1 <hi>Joh.</hi> 5, 10. 1 <hi>Joh.</hi> 4.13.</note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>a Fire was kindled</hi> in <hi>Jordan,</hi> ſaith <hi>Juſtin Martyr</hi> (Dialcu. Tryp. <hi>p.</hi> 315.) <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>a great Light ſhone upon the Place</hi> ſaith the <hi>Goſpel of the Nazarens,</hi> which the <hi>Syrian Churches</hi> alſo acknowledge in their <hi>Liturgy.</hi> The Spirit then given to believers is ſtiled the <hi>firſt Fruits</hi> which rais'd an expectation in them <hi>of the Redemption of their Bodies,</hi>
+               <note n="‖" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, 1 Cor. 1, 6. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, 2 <hi>Cor.</hi> 1.21, 22. <hi>vid.</hi> 2 <hi>Cor.</hi> 5.1-5 5 <hi>Gal.</hi> 5. 1 <hi>Theſſ.</hi> 1.5. 2 <hi>Tim.</hi> 1.14.</note> 
+               <hi>the Earneſt of the Spirit in their Hearts, the Spirit by which they were ſealed up to the Day of Redemption, the Earneſt of their Inheritance for the buying out of the purchaſed Poſſeſſion, the Spirit by which they were enabled to cry</hi> Abba <hi>Father, who teſtified to their Spirits that they were the Sons of God, and ſhould be heirs of Glory, and the VVit<g ref="char:EOLhyphen"/>neſs of God within them.</hi> Which expreſſions plainly intimate, that they who had this <hi>Spirit</hi> could certainly know he dwelt in them, and could be thence aſſured of their Relation to God, and of the Happineſs which he had promiſed to them, accord<g ref="char:EOLhyphen"/>ing to the ſaying of St. <hi>John, hereby we know that we dwell in him, and he in us, becauſe he hath given us of his Spirit.</hi> Moreover.</p>
+            <p n="6">6. The <hi>Primitive Profeſſors</hi> of the <hi>Chriſtian Faith</hi> afford us a full Teſtimony of the Continuance of thoſe Gifts and Operati<g ref="char:EOLhyphen"/>ons of the <hi>Holy Ghoſt</hi> in after Ages. St. <hi>Clemens,</hi> the Com<g ref="char:EOLhyphen"/>panion, and Fellow-labourer with St. <hi>Paul,</hi> in his <hi>Epiſtle</hi> to the<note n="(a)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. S S. <hi>2.</hi>
+               </note> 
+               <hi>Church</hi> of <hi>Corinth</hi> ſaith, that <hi>they were filled with an
+<pb n="11" facs="tcp:107109:9"/>inſatiable deſire of doing good, and that there was a full Effuſion of the</hi> Holy Ghoſt <hi>upon them all. Euſebius</hi> adds, that the firſt Order of the Succeſſion of the <hi>Apoſtles</hi> and the <hi>Evangeliſts,</hi> which preached the Goſpel after them,<note n="(b)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, Hiſt. Eccl. l. <hi>3.</hi> c. <hi>37.</hi>
+               </note> 
+               <hi>did many and ſtrange Wonders by the</hi> Holy Ghoſt. <hi>Ignatius</hi> the <hi>Martyr</hi> ſaith of the<note n="(c)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, Proem.</note> 
+               <hi>Church</hi> of <hi>Smyrna,</hi> that ſhe was <hi>favoured with all Gifts, and was deficient in no Gift. Juſtin Martyr,</hi> in his <hi>Dialogue</hi> with <hi>Trypho,</hi> declares ex<g ref="char:EOLhyphen"/>preſly of thoſe who were converted to the<note n="(d)" place="margin">Novi nonnullos indies Chriſti Diſ<g ref="char:EOLhyphen"/>ciplinam ſuſcipientes, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, Dial. cum Tryph. <hi>P 258.</hi> A <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>P. 308.</hi> B. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>P. 315.</hi> D.</note> 
+               <hi>Chriſtian Faith,</hi> that <hi>they every one received the Gifts, as they were worthy, when they were Baptized, ſome the Spirit of Knowledg, ſome of Council, ſome of Forti<g ref="char:EOLhyphen"/>tude, ſome of Healing, ſome of Fore-know<g ref="char:EOLhyphen"/>ledge, ſome of Doctrine.</hi> And again, <hi>amongſt us,</hi> ſaith he, <hi>even to this preſent Time, the Gifts of Propheſie are preſerved, whence you</hi> Jews <hi>ought to underſtand, that what of old was proper to the Jewiſh Church, is now tranſlated to us;</hi> and a third time, <hi>Our Men and VVomen have the Gifts of the</hi> Holy Ghoſt. <hi>Irenaeus,</hi> ſpeaking of the wonderful Operations of our Lord, ſayeth thus,<note n="(e)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>L.</hi> 2. <hi>c.</hi> 57.</note> 
+               <hi>They who are truly his Diſciples, receiving Grace from him, do the like VVorks in his Name, as every one hath received the Gift from him; ſome ejecting Devils ſo efficaciouſly, that they who were deli<g ref="char:EOLhyphen"/>vered from them, eſpous'd the Chriſtian Faith, and conſtantly per<g ref="char:EOLhyphen"/>ſevered in it; others had the Knowledge of things future, Divine
+<pb n="12" facs="tcp:107109:10"/>Viſions, and prophetical Predictions were vouchſafed to them; o<g ref="char:EOLhyphen"/>thers by Impoſition of Hands, cured the Diſeaſed, and others raiſed the Dead. 'Tis needleſs,</hi> ſaith he, <hi>to inſiſt upon Particulars, for the miraculous Gifts which the Church, throughout the VVorld, enjoys, and the beneficial Miracles ſhe worketh for the good of Heathens, are innumerable.</hi> And treating of theſe Words of the Apoſtles, <hi>VVe ſpeak VViſdom among thoſe that are per<g ref="char:EOLhyphen"/>fect,</hi> he ſaith, that<note n="(f)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, L. <hi>5.</hi> cap. <hi>6.</hi>
+               </note> 
+               <hi>the Apoſtle, by the perfect, <g ref="char:V">Ʋ</g>nderſtandeth thoſe who have re<g ref="char:EOLhyphen"/>ceived the Spirit of God, and by that Spi<g ref="char:EOLhyphen"/>rit ſpeak all Languages, as we our ſelves have heard from many Brethren of the Church, having prophetick Gifts, and by the Spirit ſpeaking all Languages, diſcover<g ref="char:EOLhyphen"/>ing the hidden things of Men,</hi> and <hi>mani<g ref="char:EOLhyphen"/>feſting the Myſteries of God.</hi>
+            </p>
+            <p>Here then we find by all theſe early Teſtimonies of <hi>Martyrs,</hi> for the <hi>Chriſtian Faith,</hi> that in the firſt and ſecond <hi>Centuries,</hi> in<g ref="char:EOLhyphen"/>numerable Gifts were ſtill continued, not only to ſome <hi>Churches,</hi> but to all <hi>Churches,</hi> every where, that <hi>every one at their Baptiſm received ſome or other of theſe Gifts;</hi> and that there was <hi>a full Effuſion of the</hi> Holy Ghoſt <hi>upon them all;</hi> that theſe are Relati<g ref="char:EOLhyphen"/>ons, not of things paſt and gone, or only performed in a Cor<g ref="char:EOLhyphen"/>ner, but of things performed every day in the Face of the pub<g ref="char:EOLhyphen"/>lick Aſſembly, and ſo confirmed by the joynt Teſtimony of all Chriſtian Churches, that they were Miracles which their own Eyes had ſeen, Tongues, and Prophetick Gifts, which their own Ears had heard, Gifts which they urg'd againſt the unbe<g ref="char:EOLhyphen"/>lieving <hi>Jew</hi> for his Conviction, and beneficial Miracles ſo truly wrought upon the Heathen, that they were efficacious to en<g ref="char:EOLhyphen"/>gage them to eſpouſe, and perſevere unto the end in the Pro<g ref="char:EOLhyphen"/>feſſion of the Chriſtian Faith. And therefore this may well de<g ref="char:EOLhyphen"/>ſerve to be eſteemed,<note place="margin">Adv. Colſ. l. <hi>1.</hi> 
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. p. <hi>5.</hi>
+               </note> as <hi>Origen</hi> well ſtiles it, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the <hi>proper Demonſtration of our Jeſus,</hi> the <hi>Archetype</hi> or <hi>eſſential VVord;</hi> no other Doctrine, no other Pretender to the Power of doing Signs or Wonders, having ever derived the Power from himſelf, on others, entayl'd it on them by Promiſe, or engag'd that all Believers ſhould receive it; no Heathen <hi>Apollonius,</hi> no
+<pb n="13" facs="tcp:107109:10"/>
+               <hi>Roman Jugler</hi> ever pretending to enable their Followers to ſpeak with Tongues, to interpret the Language of another, to diſ<g ref="char:EOLhyphen"/>cern the Secrets of Mens Thoughts, to confer all, or any of theſe Gifts by Impoſition of Hands. And Secondly, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>the most Divine Convincing Demonſtration</hi> of the Truth, and the celeſtial Original of that Faith which gave the full Effu<g ref="char:EOLhyphen"/>ſion of theſe Gifts to the Profeſſors of it.</p>
+            <p>I have hitherto diſcourſed, as if the Gifts of Healing, Diſeaſes, caſting out Devils, and working other powerful Miracles, were to be reckoned among the Gifts of the Holy Ghoſt, and I indeed believe that all theſe are <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>the Operations of the Spirit;</hi> but then I humbly conceive, that this Phraſe, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the Gifts of the Holy Ghoſt, doth in the <hi>Scripture</hi> bear another Senſe, and doth dictinctly<note n="*" place="margin">This is the conſtant Notion of the <hi>Holy Ghoſt</hi> among the Antient Jews: See <hi>Maimon More Neb<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>thim, Pa t</hi> 2. <hi>c.</hi> 45. <hi>Gradus Secundus, Mr. Smiths</hi> Select <hi>Diſc. Tract</hi> of Propheſie, <hi>Ch.</hi> of the <hi>Holy Ghoſt.</hi>
+               </note> ſignifie the inward Gifts, by which the Underſtanding is enlightned, and is enabled to perform things, which by Nature it could not do without immediate Workings of the Holy Ghoſt. When therefore we read in <hi>Scripture</hi> of <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, I grant we generally are to underſtand mi<g ref="char:EOLhyphen"/>raculous Operations performed upon others, as the Healing of the Sick, making the Lame to walk, the Deaf to hear, the Blind to ſee, the Dead to live, the caſting out, and ſilencing of <hi>De<g ref="char:EOLhyphen"/>vils,</hi> and their <hi>Oracles;</hi> but when we find in <hi>Scripture</hi> mention of the <hi>Holy Ghoſt,</hi> and of the Gifts of the <hi>Holy Ghoſt,</hi> or <hi>Spirit,</hi> I humbly conceive, we rather are to underſtand the Gifts of Wiſdom, Knowledge, Faith, Propheſie, diſcerning of Spirits, the Gifts of Tongues, and the Interpretation of them. My Reaſons for this <hi>Notion,</hi> which I ſubmit to better Judgments, are theſe following.</p>
+            <p n="1">1. Becauſe our <hi>Saviour,</hi> whilſt he was upon Earth,<note place="margin">10 <hi>Mat.</hi> 8. 10 <hi>Luc.</hi> 9.17.19. 7 <hi>Joh.</hi> 39. 16 <hi>J h.</hi> 7. 2 <hi>A <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s</hi> 33.</note> gave to his <hi>Apoſtles,</hi> and to the <hi>Seventy Diſciples,</hi> Power <hi>to heal the Sick; to cleanſe the Lepers, raiſe the Dead, and caſt out Devils;</hi> and yet the <hi>Evangeliſt St.</hi> John, informs us, that <hi>the Holy Ghoſt was not yet, becauſe that Jeſus was not yet glorified.</hi> Our <hi>Saviour</hi> tells his own <hi>Diſciples,</hi> that the <hi>Paraclyte would not come till he departed;</hi> And St. <hi>Peter,</hi> That <hi>our Lord being exalted to the Right-hand of God,
+<pb n="14" facs="tcp:107109:11"/>received the Promiſe of the Holy Ghoſt;</hi> the Holy Ghoſt therefore muſt ſignifie ſome thing diſtinguiſhed from the Power of working Miracles.</p>
+            <p n="2">2. It is almoſt impoſſible to conceive that the <hi>Diſciples</hi> of the <hi>Baptiſt</hi> (mention'd <hi>Acts</hi> 19.) had never heard of the other Mira<g ref="char:EOLhyphen"/>cles wrought by <hi>Chriſt,</hi> and his <hi>Apoſtles,</hi> and yet they do expreſly ſay, <hi>we have not heard whether there be an Holy Ghost,</hi> this Phraſe muſt therefore, in their apprehenſion, ſignifie ſomewhat di<g ref="char:EOLhyphen"/>ſtinct from what we properly do call the Power of working Miracles.</p>
+            <p n="3">3. The <hi>Prophecy</hi> of <hi>Joel,</hi> which by St. <hi>Peter</hi> is mention'd as the Promiſe on which the giving of the <hi>Holy Ghost</hi> was found<g ref="char:EOLhyphen"/>ed, is only a Promiſe of <hi>Viſions, Dreams and Prophecy,</hi> but not of Miracles, and the Gifts of the <hi>Spirit</hi> mention'd by the <hi>Pro<g ref="char:EOLhyphen"/>phet Iſaiah</hi> are only thoſe of <hi>Wiſdom,</hi>
+               <note place="margin">
+                  <hi>Chap.</hi> 11 2, 3.</note> 
+               <hi>Knowledge, <g ref="char:V">Ʋ</g>nderſtand<g ref="char:EOLhyphen"/>ing, Council, Courage, Piety, and the Fear of God;</hi> no mention being made of ſigns and wonders.</p>
+            <p n="4">4. Becauſe throughout the <hi>Hiſtory</hi> of the <hi>Acts</hi> of the <hi>Apoſtles,</hi> where St. <hi>Luke</hi> hath occaſion to mention the Miracles which the <hi>Apoſtles</hi> and <hi>Primitive Profeſſors</hi> did, he always uſes the Words <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Wonders, Signs, Powers,</hi> but where he ſpeaks of Perſons <hi>propheſying or ſpeaking with Tongues the wonderous Things of God,</hi> he doth as conſtantly aſcribe this to the <hi>Holy Ghoſt</hi> deſcending on them: Inſtances of the firſt kind you will find, 2 <hi>Acts</hi> 22, 43. | 4.16, 22, 30, 33. | 5.12. | 6, 8. | 8.6, 13.14 3. | 15.12. | 19.11.</p>
+            <p>Inſtances of the ſecond kind occur, 1 <hi>Acts</hi> 16. | 2.4, 11. | 7.51. | 8.17. | 10.44, 45. | 19.2, 6. | 20.23, 28. | 21.11. | 28.25. |</p>
+            <p n="5">5. Becauſe where the <hi>Scripture</hi> mentions theſe things together, it puts a manifeſt Diſtinction between Signs, and Wonders, and Gifts,<note place="margin">Vid. Supr. prefat.</note> and Operations, and <hi>diſtributions of the Holy Ghoſt,</hi> as <hi>v.</hi> 9.15. <hi>Rom.</hi> 19.3. <hi>Gal.</hi> 5.2. <hi>Heb.</hi> 4.21. And therefore having ſpo<g ref="char:EOLhyphen"/>ken of theſe things hitherto in general, and without diſtinction, for farther demonſtration of this Matter I proceed to ſpeak more particularly of ſome of thoſe <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> or Gifts which in the ſtricter Acceptation of the Word, do bear that Name.</p>
+            <p n="1">1. And firſt, the Gift of <hi>Prophecy</hi> affords a ſignal Demonſtra<g ref="char:EOLhyphen"/>tion of the Aſſiſtance of the <hi>Holy Ghoſt</hi> vouchſafed to the Abet<g ref="char:EOLhyphen"/>tors of the <hi>Chriſtian Faith.</hi>
+            </p>
+            <pb n="15" facs="tcp:107109:11"/>
+            <p>I have already ſhewed that this Gift was exerciſed at <hi>Rome,</hi> at <hi>Theſſalonica,</hi> 'tis repreſented by St. <hi>Paul</hi> as a thing common and luxuriant in the <hi>Church</hi> of <hi>Corinth,</hi> who declares,<note place="margin">1 <hi>Cor.</hi> 14.26, 31. <hi>v.</hi> 1.</note> that <hi>each Man had his Revelation,</hi> and that <hi>all might propheſie,</hi> and that <hi>they ſhould deſire ſpiritual Gifts, but above others Propheſie.</hi> More<g ref="char:EOLhyphen"/>over, he inſtructs them how, and when to uſe, and when to li<g ref="char:EOLhyphen"/>mit and reſtrain this Gift, and chides them for abuſing the plen<g ref="char:EOLhyphen"/>tiful Effuſion of it, to the Confuſion of the Church, the Diſ<g ref="char:EOLhyphen"/>turbance of the Peace, and the Hindrance of her Edification.</p>
+            <p>Now the Word <hi>Propheſie,</hi> imports ſometimes only the Inter<g ref="char:EOLhyphen"/>pretation of the <hi>Scriptures,</hi> or Will of God to the Edification, Exhortation, or Comfort of the Hearer; ſometimes the com<g ref="char:EOLhyphen"/>poſing of <hi>ſpiritual Hymns,</hi> of Praiſes and Thankſgivings by the immediate Aſſiſtance of the Holy Spirit, in both which Senſes, it is uſed by St. <hi>Paul,</hi> when mentioned among the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, vouch<g ref="char:EOLhyphen"/>ſafed to the Church of <hi>Corinth,</hi> but then it was ſo uſed, or with ſuch Evidences of Divine Aſſiſtance, as to convince, not only the Unlearned, but Unbelievers, that <hi>God was in them of a truth.</hi>
+               <note place="margin">1 <hi>Cor.</hi> 14.23, 24.</note> Sometimes it ſignifies the Prediction of future and contingent things, as when the <hi>Author</hi> of the <hi>Revelations</hi> ſaith, that the <hi>Te<g ref="char:EOLhyphen"/>ſtimony of Jeſus was the Spirit of Propheſie;</hi>
+               <note place="margin">10 <hi>Rev.</hi> 19. 11 <hi>Acts</hi> 27, 28. 13 <hi>Act.</hi> 1.21 <hi>Act.</hi> 9, 10.</note> and in this Import of the Word, we have mention in the <hi>Acts</hi> of the <hi>Apoſtles,</hi> of the Prophet <hi>Agabus,</hi> who foretold the Dearth which was to hap<g ref="char:EOLhyphen"/>pen <hi>in the Reign of Claudius Caeſar,</hi> and of other Prophets coming <hi>from Jeruſalem to Antioch,</hi> of <hi>Prophets and Teachers at</hi> Antioch, <hi>of four Daughters of</hi> St. Philip; <hi>which did propheſie.</hi> And among the Gifts diſpenſed by our Saviour, when he <hi>aſcended up on high,</hi> are reckoned <hi>Prohets and Evangeliſts, Paſtors and Teachers.</hi> Thus <hi>Juſtin Martyr</hi> tells the Jew, that <hi>the Gift of Propheſie,</hi>
+               <note place="margin">Dial cum<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Tryph. p. <hi>308.</hi>
+               </note> 
+               <hi>which a<g ref="char:EOLhyphen"/>mong them had long ſince ceaſed, was conferr'd upon the Chriſtians,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>for we have to this ve<g ref="char:EOLhyphen"/>ry time the Gift of Propheſie. Lenaeus</hi> ſaith,<note place="margin">
+                  <hi>L.</hi> 2. <hi>c.</hi> 57.</note> That <hi>Propheſie and Viſions, Predictions of things future, and Revelation of things ſecret, were</hi> frequent in his days. And in <hi>Euſe<g ref="char:EOLhyphen"/>bius,</hi> there is mention of an<note n="*" place="margin">The Prophets of <hi>Montanus</hi> ſaith he propheſied (<hi>Euſeb. Eccl. Hiſt. l.</hi> 5. <hi>c.</hi> 17.) <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.<hi>Euſebius</hi> alſo adds, that ſome thought <hi>M<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nta<g ref="char:EOLhyphen"/>n<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>, A<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cibiades</hi> and <hi>Theodotus</hi> might Propheſie, becauſe there were <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Many ſtrange Ef<g ref="char:EOLhyphen"/>fects of this Divine Gift ſtill remaining in divers Churches, <hi>Hiſt. Eccleſ. l.</hi> 5 <hi>c.</hi> 3.</note> 
+               <hi>Antient VVriter,</hi> who, to conſute the <hi>Monta<g ref="char:EOLhyphen"/>niſt,</hi> all whoſe pretended <hi>Prophets</hi> were <hi>Extatick,</hi> brings in a Catalogue
+<pb n="16" facs="tcp:107109:12"/>of the renowned Prophets of the <hi>Chri<g ref="char:EOLhyphen"/>ſtian Church,</hi> who never ſuffered the like Phrenſies, and after calls for a Succeſſion of theſe <hi>Prophets,</hi> as a thing neceſſary in the <hi>Chriſtian Church,</hi> which, had the Gift then ceaſed, could not have been required from its Adverſa<g ref="char:EOLhyphen"/>ries without the greateſt Prejudice to the <hi>Church</hi> of <hi>Chriſt.</hi> Now this was even by the Heathens, admitted as a certain Rule, <hi>Si divinatio ergo Deus,</hi> and 'tis as certain, that if God vouchſafed the Gift of <hi>Propheſie,</hi> to <hi>Chriſtians,</hi> in Con<g ref="char:EOLhyphen"/>firmation of that Faith, that <hi>Chriſtiani<g ref="char:EOLhyphen"/>ty</hi> is derived from God. Add to this,</p>
+            <p n="2">
+               <hi>2dly,</hi> That they who were then called to <hi>Sacred Functions</hi> were either choſen to them immediately by the <hi>Holy Ghost,</hi> or, with their ordination, they received ſome meaſure of theſe ex<g ref="char:EOLhyphen"/>traordinary Gifts, this indeed we might reaſonably expect, who know the <hi>Manifestation of the Spirit was given</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>for the benefit of others,</hi>
+               <note place="margin">1 <hi>Cor.</hi> 12 7.</note> that they ſhould be more eminently vouchſafed to thoſe Men who wee particularly deſigned for the <hi>perfecting of the Saints,</hi>
+               <note place="margin">4 <hi>Eph.</hi> 12.</note> 
+               <hi>for the VVork of the Miniſtry, for the edifying the Body of Chriſt.</hi> We find that <hi>Christ</hi> himſelf was conſecrated to his <hi>Prophetick Office</hi> by the deſcent of the <hi>Holy Ghost</hi> on him at <hi>Baptiſm,</hi> and when he ordained his <hi>Apoſtles,</hi> he ſaith unto them, <hi>as my Father ſent me,</hi>
+               <note place="margin">24 <hi>L<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ke</hi> 4.</note> 
+               <hi>ſo ſend I you, receive the Holy Ghoſt,</hi> and would not ſuffer them to begin their teſtimony concerning him till they ſhould be <hi>endued with Power from above,</hi> or with the <hi>Holy Spirit.</hi>
+               <note place="margin">12 <hi>Acts</hi> 2.</note> The <hi>Holy Ghoſt</hi> ſaid, <hi>ſeparate me Barnabas and Saul for the VVork whereunto I have called them.</hi> St. <hi>Paul</hi> ſpeaks thus unto the <hi>Elders of Aſia,</hi>
+               <note place="margin">20 <hi>Acts</hi> 28. 1 <hi>Tim.</hi> 4, 14. 2 <hi>Tim.</hi> 1.6. <hi>Eph.</hi> ad <hi>Cor.</hi> ſs.</note> 
+               <hi>take heed to your ſelves, and to the flock over which the Holy Ghoſt hath made you Overſeers:</hi> And he adviſes <hi>Timothy not to neglect the Gift which was given him by Prophecy, and the Impoſition of the Hands of the Presbytery, to ſtir up the Gift received by impoſition of hands. Clemens Romanus</hi> ſaith, that <hi>the Apoſtles out of their Converts, choſe Biſhops and Deacons</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <hi>Clemens of Alexandria</hi> adds, <hi>that John coming from
+<pb n="17" facs="tcp:107109:12"/>Aſia ordained ſuch to be of the Clergy who were</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,<note place="margin">
+                  <hi>Euſeb. H<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>. E<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cl.</hi> l. 3. c. 23.</note> as I may render it, <hi>preſented to him by the Holy Ghoſt. Ignatius</hi> ſaith of the <hi>Biſhops</hi> placed eve<g ref="char:EOLhyphen"/>ry where, that<note n="a" place="margin">
+                  <p>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#MURP" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </p>
+                  <p>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#MURP" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> 
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> Ep<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> Ep<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>.1. <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</p>
+                  <p>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, <hi>&amp;c.</hi> Ep. ad Philadelph. S. S. <hi>1.</hi>
+                  </p>
+               </note> 
+               <hi>they were appointed by the Council of Chriſt Jeſus,</hi> of the <hi>Biſhops, Presbyters</hi> and <hi>Deacons,</hi> that <hi>they were aſſigned by the Sentence of Chriſt Jeſus;</hi> that <hi>they were ſent by the Father of the Family,</hi> of <hi>Oneſimus Biſhop</hi> of <hi>Epheſus,</hi> that <hi>he was given them by God,</hi> of <hi>Polycarp Biſhop</hi> of <hi>Smyrna,</hi> that <hi>he was made Biſhop by God the Father, and Chriſt Jeſus,</hi> and of the <hi>Bi<g ref="char:EOLhyphen"/>ſhop</hi> of <hi>Philadelpha,</hi> that <hi>he received the Office not by himſelf, nor by Man,</hi> St. <hi>Cy<g ref="char:EOLhyphen"/>prian</hi> ſaith of the <hi>Biſhops</hi> and <hi>Prieſts</hi> in general, that <hi>they were conſtituted ſuch, not only by the Suffrage of the People, and the Conſent of their Fellow biſhops,</hi>
+               <note place="margin">Copr. Ep. <hi>55.</hi> Edw. Ox. Ap. <hi>69.</hi> p.</note> but alſo <hi>judicio Divino,</hi> that <hi>he did make them Prieſts and Biſhops,</hi> that <hi>th<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y had Dei teſtimonium,</hi> and that <hi>it was a great Abſurdity to think that Biſhops were not conſtituted in the Church by God,</hi> which, if true, is certainly a Demonſtration not only of the <hi>
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>poſtolical,</hi> but the <hi>Divine Original</hi> of <hi>Epiſcopacy.</hi> But,</p>
+            <p n="3">
+               <hi>3dly,</hi> Of thoſe Gifts which ſhew the Power of the <hi>Holy Ghoſt</hi> engaged to promote the <hi>Chriſtian</hi> Faith, that of <hi>Tongues</hi> is moſt illuſtrious, for the <hi>Spirit</hi> which fell upon the <hi>Chriſtian</hi> Converts, opened their ſilent Mouths, and made them ſpeak the proper Dialect of <hi>every Nation under Heaven.</hi>
+               <note place="margin">2 <hi>Acts</hi> 5</note> No ſooner did an <hi>Apo<g ref="char:EOLhyphen"/>ſtle</hi> lay his hands on an illiterate Perſon, but he ſpake with Ton<g ref="char:EOLhyphen"/>gues, this was a thing exceeding requiſite to the ſpeedy Propa<g ref="char:EOLhyphen"/>gations of the <hi>Goſpel,</hi> which in the ſpace of <hi>Forty Years</hi> was to diſperſe it ſelf throughout the World according to our <hi>Lord's Prediction,</hi> it therefore was a thing publick,<note place="margin">24 <hi>Mat.</hi> 14.</note> and notorious to all the World, it was daily exerciſed among the <hi>Heathens</hi> by o<g ref="char:EOLhyphen"/>thers to convert them, and by themſelves when they embraced the <hi>Chriſtian</hi> Faith, as we are frequently inform'd by the <hi>Hiſtory</hi> of the <hi>Acts</hi> of the <hi>Apoſtles,</hi> and the <hi>Epiſtle</hi> to the <hi>Church of Corinth,</hi> among whoſe Gifts are reckoned <hi>divers kinds of Tongues,</hi>
+               <note place="margin">1 <hi>Cor.</hi> 12.10.</note> 
+               <hi>and the Interpretation o<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> them,</hi> to whom St. <hi>Paul</hi> even objecteth this amongſt their Crimes, that <hi>when they came together, every
+<pb n="18" facs="tcp:107109:13"/>one had his Tongue,</hi>
+               <note place="margin">
+                  <hi>Chap.</hi> 14.26.</note> and that if they proceeded thus to ſpeak with Tongues, they would be the Authors of Confuſion, and cauſe the <hi>Heathens,</hi> who came to their Aſſemblies, to ſay, that <hi>they were mad,</hi> 
+               <label type="milestone">
+                  <seg type="milestoneunit">Verſ. </seg>23</label> and then adviſeth that when they ſpake with Tongues, <label type="milestone">
+                  <seg type="milestoneunit">Verſ. </seg>27</label> care ſhould be taken that <hi>there be ſome Interpreter,</hi> concluding, that, order being thus obſerv'd, no Man ſhould <hi>for<g ref="char:EOLhyphen"/>bid to ſpeak with Tongues;</hi> 
+               <label type="milestone">
+                  <seg type="milestoneunit">Verſ. </seg>39</label> and if this Gift was ſo abundantly conferr'd upon that <hi>Church</hi> in which the <hi>Apoſtle</hi> found ſo great Diviſions, Errors and Miſcarriages, and of which the <hi>Apoſtle</hi> ſaith only,<note place="margin">2 <hi>Cor.</hi> 8.7.</note> that <hi>they came behind the other Churches in no Gifts,</hi> we may then reaſonably ſuppoſe others, and better <hi>Churches,</hi> had at leaſt an equal ſhare in this miraculous Endowment. This is that ſignal Demonſtration of the <hi>Spirit</hi> which becomes more convincing from the exceeding firvolouſneſs of thoſe exceptions which are made againſt it by Men who want no ſubtility, or wiſdom to ſuggeſt Evaſions, where they may be found. For,</p>
+            <p n="1">1. To aſſert that at the laying on of the <hi>Apoſtles</hi> Hands, the Preaching of a Sermon, the <hi>ruſhing of a mighty VVind,</hi> ſo ſtrange a Fit of <hi>Melancholy,</hi> ſuch unaccountable Diſeaſes ſhould ſeize upon ſo many thouſand <hi>Chriſtians,</hi> and ſhould direct each Mo<g ref="char:EOLhyphen"/>tion of their Tongues, to think that this effect ſhould be ſo pro<g ref="char:EOLhyphen"/>per and peculiar to the <hi>Chriſtian</hi> Temper, as that no other Per<g ref="char:EOLhyphen"/>ſons ſhould pretend unto it, that it ſhould naturally ceaſe, when once the <hi>Chriſtian</hi> Faith had ſpread it ſelf throughout all <hi>Nati<g ref="char:EOLhyphen"/>ons,</hi> and never give the World one freſh experience of its effi<g ref="char:EOLhyphen"/>cacy, that we know of, after the ſecond <hi>Century,</hi> is ſure a <hi>Symp<g ref="char:EOLhyphen"/>tom</hi> of a diſtemper'd Fancy, and the deepeſt <hi>Melancholy.</hi>
+            </p>
+            <p>
+               <hi>2dly,</hi> Others who aſcribe the Gift of Tongues to the Aſſiſt<g ref="char:EOLhyphen"/>ance of <hi>the Evil one,</hi> ſeem yet more palpably abſurd; ſeeing the Doctrine which was promoted by this Gift is pure and peace<g ref="char:EOLhyphen"/>able, and highly inſtrumental to advance God's Glory, and to direct Mankind to the Enjoyment both of preſent and eternal Happineſs, and therefore cannot reaſonably be ſuppoſed to de<g ref="char:EOLhyphen"/>rive from that impure, miſchievous Spirit, who labours after no<g ref="char:EOLhyphen"/>thing more than the Diſhonour of the God of Heaven, and the Deſtruction of Mankind. This Doctrine was deſign'd to over<g ref="char:EOLhyphen"/>turn the <hi>Devil</hi>'s Kingdom,<note place="margin">26. <hi>Acts</hi> 18.</note> to turn Men <hi>from the Power of Satan unto God,</hi> and to deliver the deluded World from that <hi>Idolatry,</hi>
+               <pb n="19" facs="tcp:107109:13"/>thoſe barbarous and inhuman Rites, and thoſe ridiculous and filthy Ceremonies which he had taught the World to practice, and eſpouſe as part of that devotion which was due to what they called God. Moreover, this <hi>Doctrine</hi> ſilenc'd all the <hi>De<g ref="char:EOLhyphen"/>vil's Oracles,</hi> it forced his <hi>Legions</hi> to quit thoſe ſeats they had ſo long and quietly enjoy'd before our <hi>Saviour</hi>'s coming, and to<note n="a" place="margin">
+                  <p>Neſi ſe Da monas confeſſi fucrint, Chriſtiano mentiri non audentes, ibidem illius Chriſtiani pr<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>aciſſmi ſanguinem fundite, <hi>Tertul. Apol. c. 23.</hi>
+                  </p>
+                  <p>Haee omnia ſciunt pleri<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> pars veſtrum, ipſos Daem<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nas de ſemetipſis confiteri, quoties à nobis tormentis verborum, &amp; crationis incendi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> de corporilus exiguntur, — ipſis teſtibus eſſe eos Daemon<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s de ſe ver<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m confi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>entibus credite, <hi>Minut. p. 31. Cyptian Ep. ad Demetr. Lactan. l. 2. c. 15. l. 4. c. 27.</hi>
+                  </p>
+                  <p>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. <hi>Porphyrius apud Euſeb. praepar. Evang. l. 5. c. 1.</hi>
+                  </p>
+               </note> 
+               <hi>confeſs they were but Devils, and could do nothing when the Name of Chriſt was mention'd.</hi> Now ſure it is irrational to think <hi>Satan</hi> ſhould thus contend with <hi>Satan,</hi> that he ſhould deſtroy the very Kingdom he himſelf erected, or that he ſhould concern himſelf to propagate, and to confirm that Faith which bears the great<g ref="char:EOLhyphen"/>eſt Oppoſition both to his Nature, and Deſigns.</p>
+            <p>
+               <hi>Obj.</hi> I know not any thing which can with any colour of pre<g ref="char:EOLhyphen"/>tence be offer'd to invalidate the Strength of this plain demonſtra<g ref="char:EOLhyphen"/>tion of the Truth of <hi>Chriſtian</hi> Faith, but this ſurmiſe, that theſe things are recorded only by the <hi>Apoſtles,</hi> and <hi>Evangeliſts,</hi> and <hi>Primitive Profeſſors</hi> of that Faith, and ſo the Truth of what they ſay only depends upon their teſtimony deliver'd in their own cauſe; now this exception will be fully obviated by theſe Two Conſiderations.</p>
+            <p>
+               <hi>Anſ.</hi> 1. That theſe Writings muſt be ſent unto the <hi>Churches</hi> to which they were directed, theſe <hi>Hiſtories</hi> of the <hi>Acts</hi> of the <hi>Apoſtles</hi> compoſed in thoſe very Ages when <hi>Chriſtianity</hi> by the <hi>A<g ref="char:EOLhyphen"/>poſtles</hi> was propagated through the World, and therefore whilſt all Perſons concern'd in the things delivered by them, might be certain of the Truth, or Falſehood of what they did affirm touching theſe Gifts, and Operations of the <hi>Holy Ghoſt</hi> vouch<g ref="char:EOLhyphen"/>ſafed to them, or exerciſed among them.</p>
+            <p n="2">2. That we have many ſtrong and convincing Reaſons to be<g ref="char:EOLhyphen"/>lieve that theſe <hi>Apoſtles,</hi> and ſacred <hi>Writers</hi> ſpake forth <hi>the words of truth and ſoberneſs</hi> in that which they deliver'd in theſe
+<pb n="20" facs="tcp:107109:14"/>Writings touching theſe Gifts and Operations of the <hi>Holy Spirit,</hi> and did not in theſe <hi>Epiſtles,</hi> and Diſcourſes boaſt of that which they had not performed, or which thoſe <hi>Churches,</hi> to which theſe Writings were directed, had not experienced.</p>
+            <p>And <hi>firſt,</hi> That theſe Writings were compoſed, and ſent unto theſe <hi>Churches</hi> in that very Age in which the <hi>Apoſtles</hi> lived, and propagated the <hi>Chriſtian</hi> Faith throughout the World, may be concluded. (1.) Becauſe they bear the Names of the <hi>Apoſtles,</hi> and <hi>Evangeliſts,</hi> for no Man could pretend they were ſo, had they not really been ſuch, but they muſt put a Cheat upon the World, and ſubſtitute their own inventions, for the Word of God. Moreover they have been handed down for ſuch by a more general Tradition, and of a firmer Credit than any of the Books of <hi>Cicero,</hi> or <hi>Virgil,</hi> which we indiſputably own as theirs, for it was a Tradition of the whole Chriſtian World, which owned, cited, read, and receiv'd them as ſuch from the <hi>Apoſtles</hi> days, as is apparent from the <hi>Epiſtle</hi> of St. <hi>Clement, Barnabas, Ignatius,</hi> and <hi>Polycarp,</hi> whilſt others which pretended to the ſame <hi>Origi<g ref="char:EOLhyphen"/>nal,</hi> were univerſally rejected by them. Beſides they did atteſt them ſo to be by many ſufferings which they had no temptation to endure beſides the Truth of their aſſertion: 'twas a Tradi<g ref="char:EOLhyphen"/>tion which concerned things of the higheſt moment, and which it was their greateſt intereſt to be well aſſured of, they being the ſole Ground of their ſupport at preſent under the ſharpeſt Tryals, and of their future hopes; and therefore Writings which they were concerned to get, hear, read and keep, they were Books, written to whole <hi>Churches</hi> and <hi>Nations,</hi> yea the whole World of <hi>Chriſtians,</hi> who could not have receiv<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d them eaſily, had the <hi>Apoſtles,</hi> by whom they were converted, given no intimations of them. Books of the greateſt Oppoſition to the Superſtitions both of <hi>Jews</hi> and <hi>Heathen,</hi> and which de<g ref="char:EOLhyphen"/>nounced upon them the greateſt Plagues and Judgments, ſuch as obliged them to ſearch, as much as poſſible, into the Truth of what they ſaid, and yet theſe Books were by them not de<g ref="char:EOLhyphen"/>nied to be the Works of thoſe <hi>Apoſtles</hi> and <hi>Evangeliſts</hi> whoſe names they bare, they were Books which could not be ſpread abroad in the <hi>Apoſtles</hi> days, and in their names, unleſs the <hi>A<g ref="char:EOLhyphen"/>poſtles</hi> had indited them, nor be eſteemed as the great <hi>Characters</hi>
+               <pb n="21" facs="tcp:107109:14"/>of the <hi>Chriſtian</hi> Faith, if the <hi>Apoſtles</hi> were ſo forgetful of them, as not to let thoſe Perſons, for whoſe ſake they were written, know it, they were Books which pretended to a Commiſſion from the <hi>Holy Jeſus</hi> to leave a Rule of Life and Doctrine to Mankind, which was intruſted only in the Hands of the <hi>Apoſtles,</hi> all others ſtill pretending to deliver only what they receiv'd from them, they were indited partly to confirm the <hi>Chriſtian</hi> Faith, and to engage Men to believe it, partly to put an end to the Contentions, and rectify the Errors which had crept into the Church in the <hi>Apoſtles</hi> days, and needed ſpeedy reformation, partly to juſtiſy them<g ref="char:EOLhyphen"/>ſelves againſt falſe Brethren, and to aſſert the Truth of their <hi>Apo<g ref="char:EOLhyphen"/>ſtleſhip,</hi> and partly to preſerve their <hi>Proſelytes</hi> from ſuch as did pervert the Faith, and partly to inſtruct them how to bear up in fiery tryals, and to ſupport the Souls of <hi>Chriſtians</hi> under the Miſeries they ſuffered from a perſecuting World, and therefore they were written on ſuch Grounds as did require a quick diſ<g ref="char:EOLhyphen"/>patch upon theſe errands to the <hi>Churches</hi> for which they were intended, and ſo the <hi>Apoſtles</hi> muſt be ſuppoſed to give early no<g ref="char:EOLhyphen"/>tice of them, and to divulge them to the <hi>Chriſtian</hi> World whilſt they, to whom they were committed, were able to diſprove them, if they had been falſe.</p>
+            <p>In a Word, The <hi>Epiſtle</hi> to the <hi>Romans</hi> muſt be falſe, or elſe it muſt be ſent by the <hi>Apoſtle</hi> before he had ſeen <hi>Rome,</hi>
+               <note place="margin">1. <hi>Rom.</hi> 11, 15, 28.</note> for it con<g ref="char:EOLhyphen"/>taineth an intimation, that <hi>he had not ſeen</hi> them, a <hi>deſire to ſee</hi> them, and a <hi>Promiſe</hi> to come to them. The <hi>firſt Epiſtle</hi> to the <hi>Corinthians</hi> muſt be indited whilſt the Contentions and Diſor<g ref="char:EOLhyphen"/>ders, touching the Exerciſe of their <hi>ſpiritual Gifts,</hi> continued, becauſe it was deſign'd to correct them, and whilſt St. <hi>Paul</hi> was in a Capacity to be in Perſon with them, becauſe he ſaith,<note place="margin">1 <hi>Co<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> 11 34. <hi>Ch.</hi> 8, 9.</note> 
+               <hi>the reſt will I ſet in order when I come,</hi> The <hi>ſecond Epiſtle</hi> muſt be written when the great Famine hapned in <hi>Judaea,</hi> of which <hi>Aga<g ref="char:EOLhyphen"/>bus</hi> foretold, becauſe two Chapters of it are ſpent in exhortati<g ref="char:EOLhyphen"/>on to a liberal Contribution to it,<note place="margin">2 <hi>Cor</hi> 8.4.11. <hi>Acts</hi> 30.</note> and St. <hi>Paul</hi> was himſelf the Meſſenger by whom that Charity was ſent. The <hi>Epistle</hi> to the <hi>Galatians</hi> muſt be indited whilſt the Controverſie touching Juſti<g ref="char:EOLhyphen"/>fication <hi>by the Law, or by the hearing of Faith</hi> was hot amongſt them, whilſt their diſſatisfactions touching the <hi>Apoſtleſhip</hi> of St. <hi>Paul</hi> continued, and whilſt he lived, for I <hi>Paul,</hi> ſaith he,<note place="margin">5. <hi>Gal.</hi> 2. 1 <hi>Gal.</hi> 2<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>Ch.</hi> 6.17.</note> 
+               <hi>teſtify to yo<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> thus and thus, <hi>the Truth of what I write,</hi> I confirm to you
+<pb n="22" facs="tcp:107109:15"/>by the <hi>Oath</hi> of God, and he concludeth his <hi>Epiſtle</hi> thus, <hi>hence<g ref="char:EOLhyphen"/>forth let no Man trouble me, for I bear in my Body the Mark of the Lord Jeſus.</hi> In his <hi>Epiſtle</hi> to the <hi>Epheſians,</hi> he ſtrengthens his exhortation with the Conſideration of his Bonds,<note place="margin">3. <hi>Eph.</hi> 1.4.1. 1 <hi>Phil.</hi> 13, 19, 23, 25, 27. | 2.12, 24. 1 <hi>Col.</hi> 24, 29 | 2.1.4.18.9.10. 1 <hi>Theſ.</hi> 2.17. | 3.10.5.6. 2 <hi>Theſ.</hi> 3 2.17. 13. <hi>Heb.</hi> 18, 19, 23.</note> ſaying, <hi>I Paul the Priſoner of the Lord beſeech you.</hi> In that to the <hi>Philippians,</hi> he mentions his <hi>Bonds,</hi> his <hi>expectation of deliverance from them by their Prayers,</hi> his deſire <hi>to dye,</hi> his aſſurance he ſhould live to ſerve the <hi>Church,</hi> his <hi>abſence</hi> from them and confidence that <hi>he ſhould come to them.</hi> In that to the <hi>Coloſſians,</hi> he ſpeaks of his <hi>preſent joy,</hi> his <hi>ſufferings,</hi> his <hi>labours</hi> for the <hi>Church,</hi> his <hi>ſollicitude for them, and thoſe of</hi> Laodicea, his <hi>ſalutation with his own hand,</hi> his ſending <hi>Tychicus</hi> and <hi>Oneſimus</hi> to give them an account of his Affairs. In his <hi>Epiſtles</hi> to the <hi>Theſſalonians,</hi> he ſpeaks of his <hi>ab<g ref="char:EOLhyphen"/>ſence</hi> from them, of his great <hi>deſire to ſee</hi> them, his <hi>ſollicitude</hi> for their <hi>ſtedfaſtneſs</hi> under the Sufferings they endured for the Faith, his comfort when he heard that they ſtood firm, he de<g ref="char:EOLhyphen"/>ſires their Prayers, that he may be <hi>delivered from evil Men,</hi> and concludes with the <hi>Salutation of his own hand.</hi> In the <hi>Epiſtle</hi> to the <hi>Hebrews</hi> he begs their <hi>Prayers,</hi> that <hi>he may be the ſooner with them,</hi> and promiſes to <hi>come with</hi> Timothy: as for thoſe writ to <hi>Timothy, Titus</hi> and <hi>Philemon,</hi> I hope 'tis needleſs to prove that they were written whilſt they lived, and were not ſent unto them in another World. In a Word, all or moſt of theſe <hi>Epiſtles</hi> car<g ref="char:EOLhyphen"/>ry his Name before them, his Mark or Token in the Cloſe, they mention the <hi>Brethren</hi> then living, and ſpeak of <hi>Salutation</hi> from, or to them, in them he is ſtill <hi>praying</hi> for them, or begging the <hi>Aſſiſtance of their Prayers,</hi> to omit many other things which are moſt certain Indications of the Time when they were written.</p>
+            <p>
+               <hi>2dly,</hi> That the <hi>Apoſtles</hi> in theſe Writings, ſpeak the Words of Truth and Soberneſs in that which they deliver'd, touching theſe Gifts and Operations of the <hi>Holy Ghoſt,</hi> and did not boaſt of that which they had not performed in thoſe <hi>Churches,</hi> or of that of which thoſe <hi>Churches</hi> had no experience, will be evident from theſe Conſiderations.</p>
+            <p n="1">1. That they ſuffer'd loſs of Goods, Life, Credit, and of all that could be counted <hi>dear</hi> unto them, to confirm the Truth of what they taught, and they perſwaded <hi>Myriads</hi> in all thoſe places to which theſe Writings were directed by them to follow the Example of their Sufferings, propounding to them only
+<pb n="23" facs="tcp:107109:15"/>the <hi>firſt Fruits,</hi> the <hi>Earneſt,</hi> the <hi>Comfort of the Holy Spirit</hi> here, the Joys of <hi>Heaven</hi> hereafter, as the true Motive, and Engage<g ref="char:EOLhyphen"/>ment to endure all theſe dreadful things. Now, if Perſons void of Subtilty, and human Artifices, as the <hi>Apoſtles</hi> were, de<g ref="char:EOLhyphen"/>liver to the World a Doctrine, which is according to Godlineſs, and worthy of the God of Heaven, as is the <hi>Chriſtian</hi> Faith, if they declare they had Commiſſion from Heaven to divulge that Doctrine, and that they expected at preſent no advantage by it, but only the moſt dreadful Sufferings, this being what their <hi>Maſter</hi> had foretold, and that to <hi>which they were appointed,</hi>
+               <note place="margin">16. <hi>Joh.</hi> 2, 33. 1 <hi>Theſ.</hi> 3.3, 4.</note> as we read in their <hi>Epiſtles,</hi> if accordingly they did ſuffer all, that Wit and Malice could inflict upon them, and ſealed their Do<g ref="char:EOLhyphen"/>ctrine with their Blood, I ſay when all theſe Circumſtances con<g ref="char:EOLhyphen"/>cur, what reaſon can we have to diſpute their teſtimony, or think they could be acted by any Motive in the Publication of the <hi>Chriſtian</hi> Faith, but the Conviction of the Truth of what they publiſhed. Again, ſince Men who are convinced of a fu<g ref="char:EOLhyphen"/>ture Happineſs, are naturally ſo unwilling to quit the Pleaſures and the Enjoyments of the World in Proſecution of that Hap<g ref="char:EOLhyphen"/>pineſs, can it be thought that many <hi>Myriads,</hi> who could have no conviction of it, if theſe things were falſe, ſhould, with the greateſt Joy and Freedom, part with Life, and all the ſweet En<g ref="char:EOLhyphen"/>joyments of it, to promote a known Deluſion, and in defence of thoſe <hi>Epiſtles,</hi> which made a frequent mention of Gifts and Miracles imparted to them, when they had no experience of them, eſpecially, if <hi>thirdly,</hi> we conſider, that the Aſſiſtance and Comforts of the <hi>Holy Ghoſt</hi> were promiſed to all <hi>Chriſtian ſuffer<g ref="char:EOLhyphen"/>ers,</hi> and they were told, that <hi>as their troubles did abound,</hi>
+               <note place="margin">2 <hi>Cor</hi> 15. 1. <hi>Pet.</hi> 4, 14.</note> 
+               <hi>their comforts ſhould abound much more,</hi> that when they were reproach<g ref="char:EOLhyphen"/>ed, and exercis'd with fiery Tryals, they were <hi>happy People, be<g ref="char:EOLhyphen"/>cauſe the Spirit of Glory, and of God would reſt upon them,</hi> this the <hi>Apoſtles</hi> taught them to expect, and this, ſay the <hi>Apoſtles,</hi> ye have found, for <hi>ye became Followers of the Lord, and of us,</hi>
+               <note place="margin">1 <hi>Theſ.</hi> 1<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.6.</note> 
+               <hi>ha<g ref="char:EOLhyphen"/>ving receiv'd the Word with much affliction, and joy of the Holy Ghoſt.</hi> Now if this promiſe was ſenſibly made good unto them, they receiv'd the Earneſt of the Truth of <hi>Chriſtian</hi> Faith, and an aſſurance of God's concernment to encourage and reward the faithful <hi>Chriſtian;</hi> but if they found no ſenſible experience
+<pb n="24" facs="tcp:107109:16"/>of this <hi>Pledge,</hi> and <hi>Earneſt</hi> of theſe Conſolations, what reaſon had they to expect the Bleſſings of another World, or to con<g ref="char:EOLhyphen"/>tinue to take joyfully the ſpoiling of their Goods, the Loſs of Credit, Life, and all their worldly Comforts, in propagation of that Faith which had ſo palpably deceiv'd them, and to eſtabliſh the Belief of thoſe <hi>Epiſtles</hi> which contained theſe apparent Falſe<g ref="char:EOLhyphen"/>hoods?</p>
+            <p>
+               <hi>Secondly,</hi> If Men in their <hi>Epiſtles</hi> to their <hi>Proſelytes,</hi> ſpeak largely of the Gifts which they have exerciſed; and of the mighty Works they have performed among them, and alſo of the Power conferr'd upon thoſe very <hi>Proſelytes,</hi> to exerciſe thoſe Gifts, and do thoſe Wondrous Works; if in thoſe very Writ<g ref="char:EOLhyphen"/>ings they appeal to the <hi>Senſes,</hi> and the <hi>Conſciences</hi> of thoſe to whom they write, and boldly tell them, that their Eyes have ſeen, and their own Conſciences bear Witneſs to the Truth of what they ſay; and if thoſe very Writings, which contain theſe bold Appeals, are by thoſe very Men, to whom they do ap<g ref="char:EOLhyphen"/>peal, received, and embraced as <hi>Divine Epistles,</hi> there can re<g ref="char:EOLhyphen"/>main, when all theſe Circumſtances do concur, no place for doubting of the Truth of this Appeal. Now that this was moſt certainly the Caſe of our <hi>Apoſtles,</hi> cannot be reaſonably denyed, if you admit that they then writ, when what they ſaid might eaſily have been confuted, if it had been falſe; for they, with the greateſt Confidence, aſſert, That <hi>God confirm'd the Word of his Grace by doing Signs and Wonders by their Hands;</hi> that <hi>he bare witneſs to it by mighty Signs and Wonders,</hi>
+               <note place="margin">2 <hi>Heb</hi> 4.</note> 
+               <hi>and Di<g ref="char:EOLhyphen"/>ſtributions of the Holy Ghoſt;</hi> as hath been prov'd already.</p>
+            <p>
+               <hi>Thirdly,</hi> You have heard them alſo frequently aſſerting, and teſtifying, that the like Gifts and Operations were vouchſafed to thoſe <hi>Churches,</hi> to which theſe Letters were directed, and that they were <hi>all Partakers of this Grace.</hi>
+            </p>
+            <p>
+               <hi>Fourthly,</hi> For Confirmation of theſe Sayings, they appeal un<g ref="char:EOLhyphen"/>to <hi>the Searcher of all Hearts,</hi> and to the <hi>Conſciences</hi> of thoſe to whom theſe Writings were directed, <hi>even you your ſelves,</hi> ſay they,<note place="margin">1 <hi>Theſ.</hi> 2.10, 11.</note> 
+               <hi>are Witnſſes, and God alſo, how holily, justly, and ur<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>l<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ma<g ref="char:EOLhyphen"/>bly we behaved our ſelves among you, for neither at any time uſed we flattering Words, as you know, nor a Cloak of Covetouſneſ, God is witneſs,</hi>
+               <note place="margin">
+                  <hi>Verſ.</hi> 3, 4.</note> 
+               <hi>our Exhortation was not of Deceit or Guile, we have not
+<pb n="25" facs="tcp:107109:16"/>followed curini<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>gly deviſed Fibles; we have not walk'd in Craftinefs. nor hundled the word of God deceitfully,</hi>
+               <note place="margin">2 <hi>Cor.</hi> 4.2.</note> 
+               <hi>but do by manifeſtation of the Truth commend our ſelves to every Man's Conſcience in the ſight of God.</hi>
+            </p>
+            <p>Now theſe Conſiderations do mightily confirm the truth of what they have deliver'd in theſe Books; for can it rationally be be conceiv'd; that Men of ſuch Abilities to write the deepeſt Myſteries, and the exacteſt Precepts of Morality, ſhould be ſo ſtrangely fooliſh, as to confirm them chiefly by an Appeal to the Sences and Experiences of thoſe Men, who, as themſelves were well aſſured, had never ſeen, or done, or found the leaſt Experience of any of thoſe things they mentioned; but if we could ſuppoſe, that the <hi>Apostles</hi> had been ſo ſtrangely inconſiderate, can we believe thoſe Writings which contain'd an Appeal of ſo great Falſhood and Hypocriſie, and only were confirm'd by Perjury, and impudent Appeals unto the Conſci<g ref="char:EOLhyphen"/>ence of thoſe Men, who never found thoſe Comforts of the <hi>Holy Ghoſt,</hi> who never had theſe Gifts of <hi>Tongues, In<g ref="char:EOLhyphen"/>terpretation, Healing, Propheſie,</hi> &amp;c. which theſe <hi>Epiſtles</hi> tell us were their daily Exerciſe. I ſay, can we believe that ſuch <hi>Epi<g ref="char:EOLhyphen"/>ſtles</hi> ſhould obtain to be embraced by thoſe <hi>Churches,</hi> to which they were indited, and by all other <hi>Chriſtians,</hi> as the Word of God? May we not with like Reaſon think a <hi>Mountebank,</hi> who ſhould in Commendation of his <hi>Balſoms,</hi> pretend that he had wrought great Cures by them, upon many Perſons preſent, and before their Eyes, when both his Conſcience, and their Mouths were able to atteſt, that they receiv'd not the leaſt Benefit from any of his <hi>Balſoms,</hi> ſhould by this impudene Untruth, engage thoſe very Perſons, he ſo ſhamefully bely'd to aſſert the Sove<g ref="char:EOLhyphen"/>raign Virtue of them, in contradiction to their own Experience.</p>
+            <p>
+               <hi>Laſtly,</hi> if they who enter theſe Appeals, and by them do en<g ref="char:EOLhyphen"/>deavour to confirm their <hi>Proſelytes</hi> in the Profeſſion of the Faith they teach, have many ſubtil and induſtrious <hi>Adverſaries,</hi> Men zealous to oppoſe that Faith, and defirous to find Occaſions of Advantages over them, and apt, for want of ſuch Occaſions, to accuſe them falſly, and charged by the <hi>Apoſtles</hi> with falſe Accu<g ref="char:EOLhyphen"/>ſation; and yet theſe very Perſons, when theſe very Argu<g ref="char:EOLhyphen"/>ments, and Demonſtrations of the ſpirit are urged in Confirma<g ref="char:EOLhyphen"/>tion
+<pb n="26" facs="tcp:107109:17"/>of that Faith which theſe deceitful Workers did gainſay, could find no Ground of Cavil againſt theſe things, or could prevail upon no Perſons to believe, that they had reaſon to accuſe them of Falſhood or Deceit in theſe Particulars; we cannot reaſona<g ref="char:EOLhyphen"/>bly ſuſpect they uſed any Fraud or Falſhood in their Words or Writings; but this is certainly the Caſe of theſe <hi>Apoſtles,</hi> and more eſpecially of <hi>Bleſſed Paul,</hi>
+               <note place="margin">1 Cor. 16.9. 1 <hi>Theſ.</hi> 2.14. 1 <hi>Tit.</hi> 10.2 <hi>Tim.</hi> 3.2. 3. <hi>Ep.</hi> of <hi>Joh. v.</hi> 10. 1 <hi>Phil.</hi> 25, 16. 2 <hi>Gal.</hi> 4.</note> for their <hi>Epiſtles</hi> do inform us, that they had <hi>many Adverſaries,</hi> that they were in continual <hi>Perils from the Jews,</hi> were oft encounter'd by the <hi>Philoſophers,</hi> and the <hi>Diſputers of the World;</hi> that even <hi>among themſelves were many vain, unruly Talkers and Deceivers,</hi> which gainſaid their Doctrine; <hi>many proud Boaſters, and Corrupters of the Truth,</hi> which did endeavour to empair their Credit in the <hi>Church,</hi> and who did <hi>prate againſt them with malitious words;</hi> that there were ſome, who <hi>preached Chriſt only out of a Principle of Strife and Envy, that they might add Affliction to their Bonds;</hi> and ſome <hi>falſe Brethren, who came in privily to ſpy out th<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ir Liberty:</hi> Nor have we reaſon to ſuſpect, that all, or any of theſe Adverſaries, negelected any Pains or Diligence, which ought in reaſon to be uſed, to ſearch into the Certainty of what they offer'd for Con<g ref="char:EOLhyphen"/>firmation of this Faith, and for Vindication of their <hi>Apoſtle<g ref="char:EOLhyphen"/>ſhip,</hi> from theſe Aſperſions which theſe <hi>falſe Apoſtles</hi> laid upon them. Since then we never find the Truth of theſe Relati<g ref="char:EOLhyphen"/>ons queſtion'd by any of their numerous and potent Adverſa<g ref="char:EOLhyphen"/>ries, the <hi>falſe Apoſtle,</hi> or <hi>falſe Brother,</hi> the inquſitive and learned <hi>Preciſian,</hi> or the malicious <hi>Jew,</hi> and ſince we are aſſured by the Event, that if Attempts of ſuch a Nature have been made, they all prov'd ineffectual, and inſufficient to leſſen or take a way the Credit of theſe Writings in the <hi>Chriſtian</hi> World. I ſay, ſeeing theſe things are ſo, it may be certainly concluded that theſe Writings were not, and could not be convinced of Falſhood, but contained Matter of unqueſtionable Truth. Now hence it clearly follows, that this Aſſiſtance of the <hi>Holy Ghoſt,</hi> was a moſt full and ample Confirmation of the <hi>Chriſtian Faith,</hi> and a ſufficient Evidence that it derived from the God of Truth, for this they conſtantly declared,<note place="margin">1 <hi>Cor.</hi> 3.9. 1 <hi>Rom.</hi> 4</note> that they were <hi>Apoſtles ſent from God, Co-workers with God, and faithful Stewards of his Myſteries;</hi> that they were <hi>Servants,</hi> and <hi>Apoſtles of that Jeſus,</hi> who was <hi>declared
+<pb n="27" facs="tcp:107109:17"/>to be the Son of God with power,</hi> and that they preached <hi>the Goſpel by Virtue of the Holy Ghoſt, ſent down from Heaven.</hi> This then muſt be a certain Truth, or elſe their Story muſt be falſe. Moreover, from what hath been diſcourſed, I conclude, that the Power, by which theſe holy Men were acted, could not de<g ref="char:EOLhyphen"/>rive from <hi>Satan,</hi> it therefore muſt derive from God, whence it will follow, that what it was deſign'd to confirm, muſt be cer<g ref="char:EOLhyphen"/>tain Truth, or God muſt be ſuppoſed to employ his Power to confirm a Lye, and ſtabliſh an Impoſture in the World, by the Aſſiſtance of his <hi>Holy Spirit,</hi> which is a great Abſurdity, and very much repugnant to to his Truth and Juſtice. And if theſe things convince us of the Truth of <hi>Chriſtian Faith.</hi>
+            </p>
+            <p>Hence have we reaſon to infer, That it is very worthy of our Labour, and much concerns us to be well acquainted with this Faith. God is not buſied about Trifles, when he is pleaſed by extraordinary Methods, and Tranſports of Nature to ſhew the Glory of his Power, we may be ſure the Doctrine he thus confirms, is worthy of all Acceptation; of this Salvation, ſaith St. <hi>Peter,</hi> the Prophets have enquired, and ſearched dili<g ref="char:EOLhyphen"/>gently,<note place="margin">1 <hi>Pet.</hi> 1.11, 12.</note> becauſe it was that glorious Work of Mercy, and of Wiſdom, to which the <hi>Holy Spirit</hi> in them gave his Teſtimony, and when we preached the ſame Goſpel by the Aſſiſtance of the <hi>Holy Ghoſt,</hi> ſent down from Heaven,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> the Angels preſently deſi<g ref="char:EOLhyphen"/>red to look into it; if then theſe Sacred Prophets thought it worthy of their Diligence, inſtantly to ſearch till they had found the Time appointed for this Revelation of the Will of Heaven, it muſt be worthy of our Care, to ſearch thoſe Scriptures which contain it. If bleſſed Angels, who continually behold the Face of God in Glory, and who are leſs concern'd in theſe glad Tid<g ref="char:EOLhyphen"/>ings, than we are, thus earneſtly deſire to view the Myſtery, which contain it. If bleſſed Angels, who continually behold the Face of God in Glory, and who are leſs concern'd in theſe glad Tid<g ref="char:EOLhyphen"/>ings, than we are thus earneſtly deſire to view the Myſtery, which the Apoſtles had diſcovered by the aſſiſtance of the Holy Ghoſt, it muſt be both our Duty, and our Wiſdom to be induſtrious to know it, the Speculations of Philoſophy may be neglected, as being <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> ſaith <hi>Socrates;</hi> but <hi>Ethicks</hi> well deſerve our Study, as being purpoſely deſign'd for the Improvement of our Souls. Wherefore, this Wiſdom, this Demonſtration of the Spirit, which wholely aims at the eternal Happineſs of Man, and is deſigned to make him wiſe unto Salvation, and even advan<g ref="char:EOLhyphen"/>ced
+<pb n="28" facs="tcp:107109:18"/>to Divine Perfections, deſerves as much to be prefer'd before all other Wiſdom, as the Concernments of our Souls deſerve to be prefer'd before the Intereſts of our frail Bodies, or our eternal Intereſts, to be regarded more than temporal.</p>
+            <p>
+               <hi>Inf;.</hi> II. If this Demonſtration of the <hi>Holy Spirit</hi> doth ſo abun<g ref="char:EOLhyphen"/>dantly confirm the Truth of <hi>Chriſtian Faith,</hi> it muſt exceedingly concern us in Point of Intereſt and Wiſdom, to yield Obedi<g ref="char:EOLhyphen"/>ence to all the Precepts of that Faith. The <hi>Gentiles</hi> had the Law of Nature written in their Hearts, their Conſcience bearing them witneſs,<note place="margin">2 <hi>Rom.</hi> 14, 15. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 1 <hi>Rom</hi> 24, 26.</note> and their <hi>inward Reaſonings,</hi> ſometimes accuſing, and ſometimes excuſing them, and the Reſult of their Traſgreſ<g ref="char:EOLhyphen"/>ſions againſt this dim and imperfect Law of Nature, was, that God gave them up to vile Affections, and to a reprobate Mind; the Law was given to the <hi>Jews</hi> by Miniſtration of holy Angels, and therefore every Tranſgreſſion of it receiv'd a juſt Reward of Recompence.<note place="margin">2 <hi>Heb.</hi> 3, 4.</note> How then, ſaith the <hi>Apoſtle,</hi> ſhall we eſcape, if we neglect ſo great Salvation? which at the firſt, was ſpoken by the Lord, and was confirm'd by his Apoſtles, God hearing witneſs to it by divers Diſtributions of the Holy Ghoſt. Eſpecially, if we conſider, <hi>Firſt,</hi> That by Diſobedience to the Chriſtian Precepts, we contradict the great Deſign of all thoſe Demonſtrations of the Holy Spirit, which were vouchſafed to confirm it, the Wonders wrought by the Power of the Spirit being intended,<note place="margin">15 <hi>Rom.</hi> 18.</note> faith St. <hi>Paul.</hi> to make the <hi>Gentiles</hi> obedient in Word and Deed. <hi>Secondly,</hi> That this great Confirmtion of the <hi>Chriſtian Faith,</hi> doth highly aggravate the Gunt of our Tranſ<g ref="char:EOLhyphen"/>greſſions of the <hi>Chriſtian Precepts,</hi> for the ſtronger is the Motive to believe, the greater is the Guilt of Diſobedience, becauſe ſuch Motives may be eaſily diſcerned, and ſo our Ignorance of them muſt be leſs excuſable, and we cannot reſiſt their Evidence, but we muſt offer violence to the Convictions of our Conſciences: were Chriſtian Faith confirmed only be probable Inducements to believe it, our Diſobedience to its Precepts would be moſt irrational, they being in themſelves moſt excellent, and ſuch as our own Reaſon muſt approve as beneficial to our ſelves, and others, the Motives which engage to the Performance of them, are infi<g ref="char:EOLhyphen"/>nitely to be prefer'd beſore, whatever ſtands in competition with them; the Evils which they, threaten to the diſobedient, more
+<pb n="29" facs="tcp:107109:18"/>terrible and laſting than any we can ſuffer by being ſtedfaſt in this Faith; and ſurely then, whoever owns the Certainty of <hi>Chriſtian Faith,</hi> and lives in Contradiction to it, or by his Practice, gives the Lye to his Profeſſion, can have no Shadow of Excuſe, or Hopes or Mercy at the great Day of his Account. In a word, ſeeing this Demonſtration of the <hi>Holy Spirit</hi> doth convince us of the Truth of <hi>Chriſtian Faith,</hi> it muſt add Strength to all the Mo<g ref="char:EOLhyphen"/>tives, Engagements and Encouragements to lead a Virtuous, and holy Life, which this <hi>Religion,</hi> above all others, doth af<g ref="char:EOLhyphen"/>ford. For ifall that is delivered in theſe VVriting, and <hi>Epiſtles,</hi> indited by the <hi>Apoſtles</hi> and <hi>Evangeliſts;</hi> be the Revealed VVill of Heaven, then all the Promiſes and comfortable Paſſages re<g ref="char:EOLhyphen"/>corded in them, will be aſſuredly made good to all true <hi>Chri<g ref="char:EOLhyphen"/>ſtians,</hi> and the Aſſurance of theſe ineſtimable Bleſſings muſt lay upon us ſtrong Engagements <hi>to be ſtedfaſt, immoveable, always abounding in the VVork of the Lord, as knowing that our Labour ſhall not be in vain in the Lord.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
